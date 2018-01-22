@@ -5,7 +5,7 @@
 * [1.3 配色方案](/article/layout/1_3_LDK_Color.md)
 * [Discover 交互设计UCD](/artical/ixd/discover.md)
 * [UCD设计部分](/article/id/1_ucd.md)
-	- [Persona Board](/article/id/1_1_persona.md)
-	- [Insight](/article/id/1_2_insight.md)
+	- [1.1 Persona Board](/article/id/1_1_persona.md)
+	- [1.2 Insight](/article/id/1_2_insight.md)
 
 
