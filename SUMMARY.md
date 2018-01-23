@@ -13,9 +13,7 @@
 ### Part II 交互设计作品集相关
 * [2. Discover 交互设计UCD](/article/ixd/discover.md) 
 
-### Part III 工业设计作品集相关
- 
-* [3.工业设计部分版面套路](/article/id/1_ucd.md)
+* [Part III 工业设计作品集相关](/article/id/1_ucd.md)
 	+ [3.1 传统工业设计UCD部分](/article/id/1_ucd.md)
 		- [3.1.1 Persona Board 用户](/article/id/1_1_persona.md)
 		- [3.1.2 Insight 洞察](/article/id/1_2_insight.md)
