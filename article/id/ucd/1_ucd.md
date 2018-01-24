@@ -17,8 +17,6 @@
 * 3.1.6 Concept Generation （概念生成）  
 * 3.1.7 Concept Selection （概念筛选）    
 * 3.1.8 Mock-Up Development（测试模型）  
-* 3.1.9 Concept Improvement（概念修改）   
-* 3.1.10 Moodboard & Appearance （情绪板与外观设计）
 * 3.1.9 Moodboard & Appearance （情绪板与外观设计）
 
 ###设计表现部分: 
