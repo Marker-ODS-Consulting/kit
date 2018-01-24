@@ -5,7 +5,7 @@
 
 
 ###选题部分：  
-* [3.1.1 Persona（人群）](/1_1_persona.md)  
+* [3.1.1 Persona（人群）](/article/id/ucd/1_1_persona.md)  
 * 3.1.2 Insight（洞察）
 
 ###调研部分：  
