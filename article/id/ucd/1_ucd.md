@@ -19,11 +19,12 @@
 * 3.1.8 Mock-Up Development（测试模型）  
 * 3.1.9 Concept Improvement（概念修改）   
 * 3.1.10 Moodboard & Appearance （情绪板与外观设计）
+* 3.1.9 Moodboard & Appearance （情绪板与外观设计）
 
 ###设计表现部分: 
-* 3.1.11 Design Communication （设计表现）  
-* 3.1.12 Design Evaluation （设计评价）   
-* 3.1.13 CMP Design （色彩、材料和工艺）
+* 3.1.10 Design Communication （设计传达）  
+* 3.1.11 Design Evaluation （设计评价）   
+* 3.1.12 CMP Design （色彩、材料和工艺）
 
   
 它在作品集中看起来大概是这个样子的：  
