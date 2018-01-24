@@ -1,6 +1,5 @@
 # Summary
 
-* 大北窑作品集工具套装
 * [Part 0 介绍与版权](README.md) 
 
 * [Part I 作品集版面设计组件](/article/layout/LDK_Intro.md)
