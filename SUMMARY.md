@@ -16,6 +16,6 @@
 		- [3.1.5 User Needs 用户需求](/article/id/ucd/1_5_needs.md)
 		- [3.1.6 Concept Generation 概念生成](/article/id/ucd/1_6_generation.md)
 		- [3.1.7 Concept Selection 概念筛选](/article/id/ucd/1_7_selection.md)
-		- [3.1.8 Mock-Up Development 测试模型](/article/id/ucd/1_8_mock-up.md)
+		- [3.1.8 Mock-Up Development 测试模型](/article/id/ucd/1_8_mockup.md)
 
 
