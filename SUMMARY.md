@@ -1,12 +1,22 @@
 # Summary
 
 * 大北窑作品集工具套装
-* [Part 0 介绍与版权](README.md)    
+* [Part 0 介绍与版权](README.md) 
+	+ [大北窑？](/article/about/0_1.md)
+	+ [change log](/article/about/0_2_changelog.md)
+	+ 
+* [Part I 作品集版面设计组件](/article/layout/LDK_Intro.md)
+   
 	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
 	+ [1.2 图表样式](/article/layout/1_2_LDK_Info.md)
 	+ [1.3 配色方案](/article/layout/1_3_LDK_Color.md)
 
-* [2. Discover 交互设计UCD](/article/ixd/discover.md) 
+* [Part II 交互设计作品集版面](/article/ixd/ixd.md)
+	+ [2.1 基于双钻模型的交互设计](/article/id/ucd/7777777.md)
+		- [2.1.6 Mudule Connection & Coding](/article/id/ixd/2_67.md)
+		- [2.1.10 Storyboard](/article/id/ixd/1_10_storyboard.md)
+		- [2.1.11 User Testig](/article/id/ixd/1_11_usertesting.md)
+	+ [2.2 基于Arduino的交互设计](/article/id/ucd/77777.md)
 
 * [Part III 工业设计作品集版面](/article/id/id.md)
 	+ [3.1 传统工业设计UCD部分](/article/id/ucd/1_ucd.md)
