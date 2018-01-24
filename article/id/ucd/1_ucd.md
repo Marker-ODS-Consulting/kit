@@ -28,7 +28,7 @@
   
 它在作品集中看起来大概是这个样子的：  
 
-![UCD Overview](http://kitpic.makebi.net/id/ucd/1.png)
+![UCD Overview](http://kitpic.makebi.net/id/ucd/ucd.png)
 
   
 后续的章节将逐一介绍每个要点做作品集中的典型呈现形式。
