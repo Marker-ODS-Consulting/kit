@@ -17,7 +17,7 @@
 		- [3.1.6 Concept Generation 概念生成](/article/id/ucd/1_6_generation.md)
 		- [3.1.7 Concept Selection 概念筛选](/article/id/ucd/1_7_selection.md)
 		- [3.1.8 Mock-Up 测试模型](/article/id/ucd/1_8_mockup.md)
-		- [3.1.9 Moodboard & Appearance 情绪板与外观](/article/id/ucd/1_9_appearance.md)
-		- [3.1.10 Design Communication 设计传达](/article/id/ucd/1_10_communication.md)
+		- [3.1.9 Appearance 情绪板与外观](/article/id/ucd/1_9_appearance.md)
+		- [3.1.10 Communication 设计传达](/article/id/ucd/1_10_communication.md)
 
 
