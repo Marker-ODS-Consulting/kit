@@ -22,7 +22,7 @@
 ###设计表现部分: 
 * 3.1.10 Design Communication （设计传达）  
 * 3.1.11 Design Evaluation （设计评价）   
-* 3.1.12 CMP Design （色彩、材料和工艺）
+* 3.1.12 CMP Design （部件、材料和工艺）
 
   
 它在作品集中看起来大概是这个样子的：  

@@ -7,7 +7,7 @@
 
 * [2. Discover 交互设计UCD](/article/ixd/discover.md) 
 
-* [Part III 工业设计作品集相关](/article/id/ucd/1_ucd.md)
+* [Part III 工业设计作品集版面](/article/id/id.md)
 	+ [3.1 传统工业设计UCD部分](/article/id/ucd/1_ucd.md)
 		- [3.1.1 Persona Board 用户](/article/id/ucd/1_1_persona.md)
 		- [3.1.2 Insight 洞察](/article/id/ucd/1_2_insight.md)
@@ -19,5 +19,9 @@
 		- [3.1.8 Mock-Up 测试模型](/article/id/ucd/1_8_mockup.md)
 		- [3.1.9 Appearance 情绪板与外观](/article/id/ucd/1_9_appearance.md)
 		- [3.1.10 Communication 设计传达](/article/id/ucd/1_10_communication.md)
+		- [3.1.11 Design Evaluation 设计评价](/article/id/ucd/1_11_evaluation.md)
+		- [3.1.12 CMP Design 部件、材料和工艺](/article/id/ucd/1_12_cmp.md)
+	+ [3.2 服务与体验角度的工业设计](/article/id/ucd/1_ucd2.md)
 
 
+CMP Design （部件、材料和工艺）
