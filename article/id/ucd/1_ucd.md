@@ -5,7 +5,7 @@
 
 
 ###选题部分：  
-* 1.1 Persona（人群）  
+* [1.1 Persona（人群）](/1_1_persona.md)  
 * 1.2 Insight（洞察）
 
 ###调研部分：  
@@ -14,7 +14,7 @@
 * 1.5 User Needs （用户需求）
 
 ###概念生成与发展部分：  
-* 1.6 Idea Generation （概念生成）  
+* 1.6 Concept Generation （概念生成）  
 * 1.7 Concept Selection （概念筛选）    
 * 1.8 Mock-Up Development（测试模型）  
 * 1.9 Concept Improvement（概念修改）   
