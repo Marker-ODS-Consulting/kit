@@ -2,9 +2,7 @@
 
 * 大北窑作品集工具套装
 * [Part 0 介绍与版权](README.md) 
-	+ [大北窑？](/article/about/0_1.md)
-	+ [change log](/article/about/0_2_changelog.md)
-	+ 
+
 * [Part I 作品集版面设计组件](/article/layout/LDK_Intro.md)
    
 	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
