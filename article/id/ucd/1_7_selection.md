@@ -1,4 +1,4 @@
-##1.7 Concept Selection （概念筛选）
+##3.1.7 Concept Selection （概念筛选）
 ###概念
 
 严格地说，所谓 Concept Selection 应该是下图中的第二和第三阶段，因为 concept screen 和 concept scoring 都是概念筛选和深入的方法。
