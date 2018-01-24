@@ -1,29 +1,29 @@
-##1. 以用户为中心的设计（UCD）
+##3.1 以用户为中心的设计（UCD）
 
 以用户为中心的设计，或者 User-Centred Design 应该是最传统的工业设计思路，所以在典型的工业设计作品集中，第一个项目一般都会尽可能靠近UCD的设计思路，大致分下来，UCD 的典型内容可以分为如下步骤(为了方便对应作品集制作，核心要点均用英文)：  
 
 
 
 ###选题部分：  
-* [1.1 Persona（人群）](/1_1_persona.md)  
-* 1.2 Insight（洞察）
+* [3.1.1 Persona（人群）](/1_1_persona.md)  
+* 3.1.2 Insight（洞察）
 
 ###调研部分：  
-* 1.3 Questionnaire（问卷）  
-* 1.4 Interview （访谈）  
-* 1.5 User Needs （用户需求）
+* 3.1.3 Questionnaire（问卷）  
+* 3.1.4 Interview （访谈）  
+* 3.1.5 User Needs （用户需求）
 
 ###概念生成与发展部分：  
-* 1.6 Concept Generation （概念生成）  
-* 1.7 Concept Selection （概念筛选）    
-* 1.8 Mock-Up Development（测试模型）  
-* 1.9 Concept Improvement（概念修改）   
-* 1.10 Moodboard & Appearance （情绪板与外观设计）
+* 3.1.6 Concept Generation （概念生成）  
+* 3.1.7 Concept Selection （概念筛选）    
+* 3.1.8 Mock-Up Development（测试模型）  
+* 3.1.9 Concept Improvement（概念修改）   
+* 3.1.10 Moodboard & Appearance （情绪板与外观设计）
 
 ###设计表现部分: 
-* 1.11 Design Communication （设计表现）  
-* 1.12 Design Evaluation （设计评价）   
-* 1.13 CMP Design （色彩、材料和工艺）
+* 3.1.11 Design Communication （设计表现）  
+* 3.1.12 Design Evaluation （设计评价）   
+* 3.1.13 CMP Design （色彩、材料和工艺）
 
   
 它在作品集中看起来大概是这个样子的：  
