@@ -46,7 +46,13 @@ TO BO DONE ...
 
 ---
 
-##0.2 Change Log
+##Change Log
+
+###Alpha 0.2.0 20180124 
+* 完成了草稿logo的设计和制作
+* 完成了工业设计中User centre design 的内容部分
+* 完成了未来2天的内容分工
+
 
 ###Alpha 0.1.0 20180122 
 * 完成了目录结构与逻辑层级的确定
