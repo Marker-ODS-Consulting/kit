@@ -1,21 +1,21 @@
 # Summary
 
-* [Part 0 介绍与版权](README.md) 
+* [序 介绍与版权](README.md) 
 
-* [Part I 作品集版面设计组件](/article/layout/LDK_Intro.md)
+* [1 作品集版面设计组件](/article/layout/LDK_Intro.md)
    
 	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
 	+ [1.2 图表样式](/article/layout/1_2_LDK_Info.md)
 	+ [1.3 配色方案](/article/layout/1_3_LDK_Color.md)
 
-* [Part II 交互设计作品集版面](/article/ixd/ixd.md)
+* [2 交互设计作品集版面](/article/ixd/ixd.md)
 	+ [2.1 基于双钻模型的交互设计](/article/id/ucd/7777777.md)
 		- [2.1.6 Mudule Connection & Coding](/article/ixd/2_67.md)
 		- [2.1.10 Storyboard](/article/ixd/1_10_storyboard.md)
 		- [2.1.11 User Testig](/article/ixd/1_11_usertesting.md)
 	+ [2.2 基于Arduino的交互设计](/article/ucd/77777.md)
 
-* [Part III 工业设计作品集版面](/article/id/id.md)
+* [3 工业设计作品集版面](/article/id/id.md)
 	+ [3.1 传统工业设计UCD部分](/article/id/ucd/1_ucd.md)
 		- [3.1.1 Persona Board 用户](/article/id/ucd/1_1_persona.md)
 		- [3.1.2 Insight 洞察](/article/id/ucd/1_2_insight.md)
