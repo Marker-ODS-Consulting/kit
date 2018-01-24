@@ -20,5 +20,5 @@
 		- [3.1.9 Appearance 情绪板与外观](/article/id/ucd/1_9_appearance.md)
 		- [3.1.10 Communication 设计传达](/article/id/ucd/1_10_communication.md)
 		- [3.1.11 Design Evaluation 设计评价](/article/id/ucd/1_11_evaluation.md)
-		- [3.1.12 CMP Design 部件、材料和工艺](/article/id/ucd/1_12_cmp.md)
+		- [3.1.12 CMP 部件、材料和工艺](/article/id/ucd/1_12_cmp.md)
 	+ [3.2 服务与体验角度的工业设计](/article/id/ucd/1_ucd2.md)
