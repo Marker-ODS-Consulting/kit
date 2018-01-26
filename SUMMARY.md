@@ -3,8 +3,7 @@
 * [序 介绍与版权](README.md) 
 
 * [1 作品集版面设计组件](/article/layout/1_0_LDK_Intro.md)
-	+ [1.2 段落格式](/article/layout/1_2_LDK_Para.md)
-	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo)
+	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
 	+ [1.2 段落格式](/article/layout/1_2_LDK_Para.md)
 	+ [1.3 图表样式](/article/layout/1_3_LDK_Info.md)
 	+ [1.4 配色方案](/article/layout/1_4_LDK_Color.md)
@@ -26,7 +25,7 @@
 		- [2.1.12 Customer Journey](/article/ixd/2_1_12_customerjourney.md)
 		- [2.1.13 Ecology](/article/ixd/2_1_13_ecology.md)
 		- [2.1.14 Hi-Fi](/article/ixd/2_1_14_hifi.md)
-	+ [2.2 基于Arduino的交互设计](/article/ixd/2_2 _arduinoprototyping.md)
+	+ [2.2 基于Arduino的交互设计](/article/ixd/2_2_arduinoprototyping.md)
 		- [2.2.1 Story Telling](/article/ixd/2_2_1_storytelling.md)
 		- [2.2.2 Mind Storming](/article/ixd/2_2_2_mindstorming.md)
 		- [2.2.3 Former Experiment](/article/ixd/2_2_3_formerexperiment.md)
