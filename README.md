@@ -56,6 +56,7 @@ TO BO DONE ...
 * 完成了草稿logo的设计和制作
 * 完成了工业设计中User centre design 的内容部分
 * 完成了未来2天的内容分工
+* 将图片以OSS+CDN形式放入阿里云
 
 
 ###Alpha 0.1.0 20180122 
