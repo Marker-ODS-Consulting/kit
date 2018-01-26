@@ -1,0 +1,29 @@
+{
+    "root": "./",
+    "title": "大北窑工具套装",
+    "head_title": "大北窑工具套装 by 马克笔设计留学",
+    "head_description": "大北窑工具套装 by 马克笔设计留学",
+    "head_keywords": "马克笔设计留学,设计留学,留学作品集,作品集模板",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "sitemap-general",
+        "splitter",
+        "toggle-chapters"
+    ],
+
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "http://kk.makebi.net/"
+        }
+    }
+}
