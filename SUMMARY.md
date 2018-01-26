@@ -3,7 +3,8 @@
 * [序 介绍与版权](README.md) 
 
 * [1 作品集版面设计组件](/article/layout/1_0_LDK_Intro.md)
-   	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
+	+ [1.2 段落格式](/article/layout/1_2_LDK_Para.md)
+	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo)
 	+ [1.2 段落格式](/article/layout/1_2_LDK_Para.md)
 	+ [1.3 图表样式](/article/layout/1_3_LDK_Info.md)
 	+ [1.4 配色方案](/article/layout/1_4_LDK_Color.md)
