@@ -26,7 +26,7 @@
 		- [2.1.12 Customer Journey](/article/ixd/2_1_12_customerjourney.md)
 		- [2.1.13 Ecology](/article/ixd/2_1_13_ecology.md)
 		- [2.1.14 Hi-Fi](/article/ixd/2_1_14_hifi.md)
-	+ [2.2 基于Arduino的交互设计](/article/ixd/2_2_arduinoprototyping.md)
+	+ [2.2 基于Arduino的交互设计](/article/ixd/2_2 _arduinoprototyping.md)
 		- [2.2.1 Story Telling](/article/ixd/2_2_1_storytelling.md)
 		- [2.2.2 Mind Storming](/article/ixd/2_2_2_mindstorming.md)
 		- [2.2.3 Former Experiment](/article/ixd/2_2_3_formerexperiment.md)
