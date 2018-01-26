@@ -4,27 +4,21 @@
 
 
 
-###选题部分：  
+###主要步骤
 * [3.1.1 Persona（人群）](/article/id/ucd/1_1_persona.html)  
 * 3.1.2 Insight（洞察）
-
-###调研部分：  
 * 3.1.3 Questionnaire（问卷）  
 * 3.1.4 Interview （访谈）  
 * 3.1.5 User Needs （用户需求）
-
-###概念生成与发展部分：  
 * 3.1.6 Concept Generation （概念生成）  
 * 3.1.7 Concept Selection （概念筛选）    
 * 3.1.8 Mock-Up Development（测试模型）  
 * 3.1.9 Moodboard & Appearance （情绪板与外观设计）
-
-###设计表现部分: 
 * 3.1.10 Design Communication （设计传达）  
 * 3.1.11 Design Evaluation （设计评价）   
 * 3.1.12 CMP Design （部件、材料和工艺）
 
-  
+###作品集呈现 
 它在作品集中看起来大概是这个样子的：  
 
 ![UCD Overview](http://kitpic.makebi.net/id/ucd/ucd.png)
