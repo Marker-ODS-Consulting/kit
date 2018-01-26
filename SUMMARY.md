@@ -4,8 +4,10 @@
 
 * [1 作品集版面设计组件](/article/layout/1_0_LDK_Intro.md)
    	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
-	+ [1.2 图表样式](/article/layout/1_2_LDK_Info.md)
-	+ [1.3 配色方案](/article/layout/1_3_LDK_Color.md)
+	+ [1.2 段落格式](/article/layout/1_2_LDK_Para.md)
+	+ [1.3 图表样式](/article/layout/1_3_LDK_Info.md)
+	+ [1.4 配色方案](/article/layout/1_4_LDK_Color.md)
+	+ [1.5 页边距](/article/layout/1_5_LDK_Margin.md)
 
 * [2 交互设计作品集版面](/article/ixd/ixd.md)
 	+ [2.1 基于双钻模型的交互设计](/article/ixd/2_1_doublediamond.md)
@@ -23,7 +25,6 @@
 		- [2.1.12 Customer Journey](/article/ixd/2_1_12_customerjourney.md)
 		- [2.1.13 Ecology](/article/ixd/2_1_13_ecology.md)
 		- [2.1.14 Hi-Fi](/article/ixd/2_1_14_hifi.md)
-		- 
 	+ [2.2 基于Arduino的交互设计](/article/ixd/2_2_arduinoprototyping.md)
 		- [2.2.1 Story Telling](/article/ixd/2_2_1_storytelling.md)
 		- [2.2.2 Mind Storming](/article/ixd/2_2_2_mindstorming.md)
@@ -35,7 +36,6 @@
 		- [2.2.8 Coding](/article/ixd/2_2_8_coding.md)
 		- [2.2.9 Final Display](/article/ixd/2_2_9_finaldisplay.md)
 		- [2.1.2.10 Scenario](/article/ixd/2_2_10_scenario.md)
-
 * [3 工业设计作品集版面](/article/id/id.md)
 	+ [3.1 传统用户为中心工业设计](/article/id/ucd/1_ucd.md)
 		- [3.1.1 Persona Board 用户](/article/id/ucd/1_1_persona.md)
@@ -50,7 +50,6 @@
 		- [3.1.10 Communication 设计传达](/article/id/ucd/1_10_communication.md)
 		- [3.1.11 Design Evaluation 设计评价](/article/id/ucd/1_11_evaluation.md)
 		- [3.1.12 CMP 部件、材料和工艺](/article/id/ucd/1_12_cmp.md)
-		- 
 	+ [3.2 服务与体验的驱动工业设计](/article/id/ued/2_ued.md)
 		- [3.2.1 Research调研](/article/id/ued/2_1_research.md)
 		- [3.2.2 Journey Map 用户旅程图](/article/id/ued/2_2_journey.md)
