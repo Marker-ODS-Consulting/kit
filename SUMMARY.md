@@ -9,7 +9,7 @@
 	+ [1.4 配色方案](/article/layout/1_4_LDK_Color.md)
 	+ [1.5 页边距](/article/layout/1_5_LDK_Margin.md)
 
-* [2 交互设计作品集版面](/article/ixd/ixd.md)
+* [2 交互设计作品集版面](/article/ixd/tobedone.md)
 	+ [2.1 基于双钻模型的交互设计](/article/ixd/2_1_doublediamond.md)
 		- [2.1.1 Primary Research](/article/ixd/2_1_1_primaryresearch.md)
 		- [2.1.2 Secondary Research](/article/ixd/2_1_2_secondaryresearch.md)
