@@ -40,4 +40,4 @@
 		- [3.2.8 Info-Archi/Lo-Fi 信息架构/低保真](/article/id/ued/2_8_info.md)
 		- [3.2.9 Hi-Fi 高保真原型](/article/id/ued/2_9_hifi.md)
 		- [3.2.10 Communication 设计传达](/article/id/ued/2_10_communication.md)
-		- [3.2.11 Touchpoint Map 故事板/触点图](/article/id/ued/2_3_needsoffering.md)
+		- [3.2.11 Touchpoint Map 触点图](/article/id/ued/.md)
