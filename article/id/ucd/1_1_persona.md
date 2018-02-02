@@ -4,8 +4,6 @@
 
 ###概念
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTYxNzg4Nzg4MA==' frameborder=0 'allowfullscreen'></iframe>
-
 词典中 persona 一词的意思是这样的：
 
 > The aspect of someone's character that is presented to or perceived by others.
@@ -13,7 +11,7 @@
 简而言之就是一个人呈现给别人的或者被别人看到的性格或特点。中文我们一般叫它“用户画像”。它的表现形式可以有很多，而在作品集中最常见的形式就是拼图的形式。
 
 ###作品集应用
-<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=16298347&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+
 如图：
 ![persona board](http://kitpic.makebi.net/id/ucd/id-02.jpg)
 
