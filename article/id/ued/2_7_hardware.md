@@ -9,12 +9,18 @@
 
 一般来说，在作品集中只需要体现出一些手绘生成概念的过程即可，然后就可以直接以效果图的形式呈现设计成果了，如下版面：
 
-![Service Blueprint Map 服务蓝图](http://kitpic.makebi.net/id/ued/1-18.jpg)
+![Hardware 硬件设计](http://kitpic.makebi.net/id/ued/id-39.jpg)
 
 虽然将手绘和渲染图放在了一张页面中，但一定要注意一下两点：
 
 * 1. 一定要注意版面逻辑，即先有手绘再有渲染图  
 * 2. 手绘一定是要呈现概念生成和发展的草图，而非设计表现手绘
+
+以下是版面的另外一些可能性：
+![Hardware 硬件设计](http://kitpic.makebi.net/id/ued/id-40.jpg)
+
+以及：
+![Hardware 硬件设计](http://kitpic.makebi.net/id/ued/id-41.jpg)
 
 如果手绘内容较少，也可以适当加入一点 inspiration board 或者 moodboard 之类的内容。可以参考:
 >3.1.9 Moodboard & Appearance 情绪板与外观

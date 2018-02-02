@@ -7,17 +7,13 @@
 
 ###作品集应用
 
-
-
-![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/1-21.jpg)
+![Communication 设计传达](http://kitpic.makebi.net/id/ued/id-45.jpg)
 
 这个版面之中，一个横向出血的大图指代的是一张渲染图中包含所有设计点的情况。右下角图形之外的文字会起到版面上点缀和装饰的作用。
 
 服务设计的设计传达，还可能有以下的表达形式：
-![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/1-21.jpg)
-![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/1-21.jpg)
-![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/1-21.jpg)
-
+![Communication 设计传达](http://kitpic.makebi.net/id/ued/id-46.jpg)
+在这个版面中，软件和硬件被分开做了展示。
 
 
 

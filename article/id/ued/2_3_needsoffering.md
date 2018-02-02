@@ -14,7 +14,11 @@
 
 因为 Needs 和 Offering 的直接对应关系，所以很多时候在作品集中他们是成对出现的，如下图所示：
 
-![Needs / Offering Map 需求图/提供图](http://kitpic.makebi.net/id/ued/1-14.jpg)
+![Needs / Offering Map 需求图/提供图](http://kitpic.makebi.net/id/ued/id-32.jpg)
 
 没错，这一页的表达和传统工业设计那一页在版面上是类似的。一般来说， User Needs 都是需要整理成逻辑清晰的1、2、3、 这样的表达的，所以，可以看到左图的表达形式是icon+文字的表现。而一般 Offering Map 往往带着逻辑和层次，所以它的表达更多是用脑图（或信息架构图）的形式表现。
+
+![Needs / Offering Map 需求图/提供图](http://kitpic.makebi.net/id/ued/id-33.jpg)
+
+同样，与UCD设计相同，偏重于服务设计的项目也可以（甚至更应该）用 scenario 的方法，所以这一页也可以如上图版面。
 

@@ -12,9 +12,14 @@ Hi-Fi 全写做 High-Fidelity Prototype, 又叫做高保真原型， 在下图�
 
 
 
-![Information Architecture / Lo-Fi 信息架构 / 低保真原型](http://kitpic.makebi.net/id/ued/1-20.jpg)
+![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/id-43.jpg)
 
 这个版面之中，左侧的图一般是带有 mock-up 的效果图，这里的 mock-up 指的一般是那种手持手机的素材，贴上自己设计的内容后的效果图。而右侧的四个拼图一般可以放核心的一些界面。
+
+另外，也可以通过引线的加入，来体现页面间的跳转逻辑，如下图：
+![Hi-Fi 高保真原型](http://kitpic.makebi.net/id/ued/id-44.jpg)
+
+
 
 对于服务设计来说，不需要完全展示所有的高保真原型，只需要把核心或特色内容的界面呈现清楚即可。
 

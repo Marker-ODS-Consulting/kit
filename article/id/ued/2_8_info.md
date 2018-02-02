@@ -13,8 +13,7 @@ Information Architecture 信息架构是在偏重于有界面的交互设计中�
 ###作品集应用
 
 
-
-![Information Architecture / Lo-Fi 信息架构 / 低保真原型](http://kitpic.makebi.net/id/ued/1-19.jpg)
+![Information Architecture / Lo-Fi 信息架构 / 低保真原型](http://kitpic.makebi.net/id/ued/id-42.jpg)
 
 左边的脑图形式呈现的就是信息架构图，右侧的9个方框所指代的就是低保真原型的界面。一般在交互设计作品集中，我们还需要对各个页面之间的跳转关系以交互流程图的形式做出指示，但在偏服务设计一些的项目中，这些就成了备选项。
 

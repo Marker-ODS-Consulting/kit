@@ -6,7 +6,7 @@ Service Blueprint Map 服务蓝图是站在服务建立的角度，来衡量围�
 
 Service Blueprint Map 的模式基本是固定的，所以它的版式也比较固定，即一页内容呈现完整的图表即可。如下图：
 
-![Service Blueprint Map 服务蓝图](http://kitpic.makebi.net/id/ued/1-16.jpg)
+![Service Blueprint Map 服务蓝图](http://kitpic.makebi.net/id/ued/id-36.jpg)
 
 
 
