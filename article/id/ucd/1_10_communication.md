@@ -9,13 +9,19 @@
 
 而在这气其中，造型、材质、肌理和使用场景这些内容应该首先被呈现给读者，所以，典型的版面大致如下：
 
-![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/1-09.jpg)
+![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/id-21.jpg)
 
 这个版面的左右两边是一个明确的对比，左边的半页出血图的作用是体现“带场景的产品渲染图”而右边的两种小图一般是体现产品不同角度的渲染图。这一页的重点是要讲清楚“产品是什么样的”以及“产品在哪里怎么被使用”。
 
 
 紧随其后，另一张呈现设计传达的版面可以大概是这样：
-![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/1-10.jpg)
+![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/id-22.jpg)
+
+或者这样：
+![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/id-23.jpg)
+
+以及这样：
+![Design Communication 设计传达](http://kitpic.makebi.net/id/ucd/id-24.jpg)
 
 与上一张不同，这一张版面并没有一个明确的重点，版面左侧被划分成了四张渲染图的拼图。具体到渲染图的内容，这一页的重点应该在体现产品的创新、亮点、细节等处，每张渲染图需要带有自己的使命。
 

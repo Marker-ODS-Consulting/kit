@@ -7,7 +7,7 @@
 
 ###作品集应用
 
-![questionnaire research 问卷调研](http://kitpic.makebi.net/id/ucd/1-02.jpg)
+![questionnaire research 问卷调研](http://kitpic.makebi.net/id/ucd/id-05.jpg)
 
 如上图右侧所示，一般来说问卷调研在作品集之中并不需要呈现完整的问卷调研全过程，仅需要将调研的结果做出呈现即可。而常用的图表无非饼状图、柱状图、折线图、环形图、雷达图等等。
 
@@ -15,8 +15,8 @@
 
 这里图表的绘制可以参考[1.2 图表绘制](/article/layout/1_2_LDK_Info.html)
 
-通常在篇幅上，问卷这里并没有固定和统一的格式，根据需要有可能是从半页到两页左右，还需要根据具体的情况来定。
 
 以下是有关Questionnaire 在工业设计作品集中的其他应用举例：
+![3.1.2 Insight（洞察）](http://kitpic.makebi.net/id/ucd/id-06.jpg)
+同样，这里的左侧仍然是 insight 内容的一部分。当然，在版式上，questionnaire 这里并没有固定和统一的格式，根据需要有可能是从半页到两页左右，还需要根据具体的情况来定。本节内容也仅是参考。
 
-希望下载这一章节案例的 ai 格式源文件，请关注“马克笔设计留学”公众号并发送“Questionnaire”或“问卷”即可获得自动回复。

@@ -15,16 +15,13 @@ PDS指的是 Product Design Specification，与产品设计相关的任何内容
 
 所以，在作品集的呈现上，我们通常可以用icon+文字的形式进行表现，而如果来自用户的需求比较庞杂，我们可以通过脑图（Mind Map）的形式进行表达。下图就是一个例子：
 
-![user needs 用户需求](http://kitpic.makebi.net/id/ucd/1-04.jpg)
-
+![user needs 用户需求](http://kitpic.makebi.net/id/ucd/id-11.jpg)
 
 
 如图所示，左边的版面呈现就是 icon+文字 进行描述的做法，主要用于说明一些可量化表述的需求；而右侧的脑图主要用于说明用户需求的一些层级关系，这种表达有时又可以被称作 Needs Map, 它更多会用于偏服务设计的项目之中。
 
 以下是额外一些用户需求相关版面的版面呈现：
-![user needs 用户需求](http://kitpic.makebi.net/id/ucd/1-04.jpg)
-![user needs 用户需求](http://kitpic.makebi.net/id/ucd/1-04.jpg)
-![user needs 用户需求](http://kitpic.makebi.net/id/ucd/1-04.jpg)
+![user needs 用户需求](http://kitpic.makebi.net/id/ucd/id-12.jpg)
+在这个版面上，用到了“Written Scenario”的方法，严格的说这是一种调研手法，但是因为它非常接近调研结束后的呈现，所以在作品集中可以通过“Written Scenario”的方法来体现用户需求，或者，用它的变形形式 storyboard 体现也可以。
 
 
-希望下载这一章节案例的 ai 格式源文件，请关注“马克笔设计留学”公众号并发送“user needs”或“用户需求”即可获得自动回复。

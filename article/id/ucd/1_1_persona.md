@@ -25,7 +25,7 @@
 ![persona board](http://kitpic.makebi.net/id/ucd/id-04.jpg)
 当然，persona board 的另外一种呈现也可以是以几个典型用户的形式来体现，如上图所示。但是需要注意的是，这几个典型用户所创造出来的“用户空间”以及要能够反应你的目标用户。
 
-
+---
 
 但是，并不是所有的项目都起于 persona, 只有那些先定位了一些人再逐渐剖析发现问题的设计流程中才会以 persona board 作为设计的起点。
 

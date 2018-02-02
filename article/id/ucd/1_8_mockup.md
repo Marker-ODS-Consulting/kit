@@ -15,18 +15,11 @@
 
 这里我们不讲具体的方法执行，单说版面：
 
-![工业设计概念生成方法](http://kitpic.makebi.net/id/ucd/1-07.jpg)
+![工业设计概念生成方法 Mock-Up Development（测试模型）](http://kitpic.makebi.net/id/ucd/id-17.jpg)
 
 如上图，Mock-Up Making 和 Testing 的过程很简单，只需要用执行过程中的照片做记录即可。而 Improvements 部分最好能够体现出修改前后的对比，针对比较细节或不那么明显的修改，可以通过文字描述进行加强。
 
 如果Mock-Up 做的比较细致和充分，这个过程可以被称为 Prototyping, 根据内容和篇幅，这一部分内容最长差不多可以整理到两页。
-
-以下是 Mock-Up Development（测试模型）版面部分的其他一些例子：
-
-![工业设计概念生成方法](http://kitpic.makebi.net/id/ucd/1-07.jpg)
-![工业设计概念生成方法](http://kitpic.makebi.net/id/ucd/1-07.jpg)
-![工业设计概念生成方法](http://kitpic.makebi.net/id/ucd/1-07.jpg)
-
 
 
 
