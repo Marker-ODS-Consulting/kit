@@ -3,6 +3,9 @@
 作为设计师，能够寻找到合适的设计方向，以及进行合适的初步的设计定位是一个非常重要的能力，而一些院校也在自己的作品集要求中提出诸如了 “identify good design opportunity” 这样的设计要求。而很好的展示设计能力的开始就是设计师定位用户的能力，即 Persona。
 
 ###概念
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMTYxNzg4Nzg4MA==' frameborder=0 'allowfullscreen'></iframe>
+
 词典中 persona 一词的意思是这样的：
 
 > The aspect of someone's character that is presented to or perceived by others.
