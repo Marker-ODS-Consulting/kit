@@ -11,7 +11,7 @@
 简而言之就是一个人呈现给别人的或者被别人看到的性格或特点。中文我们一般叫它“用户画像”。它的表现形式可以有很多，而在作品集中最常见的形式就是拼图的形式。
 
 ###作品集应用
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0548oyhzy3&tiny=0&auto=0" allowfullscreen></iframe>
+
 如图：
 ![persona board](http://kitpic.makebi.net/id/ucd/id-02.jpg)
 
