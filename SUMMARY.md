@@ -12,7 +12,7 @@
 	+ [1.7 章节页版面形式](/article/layout/1_7_LDK_Chapteropener.md)
 	+ [1.8 封面版面形式](/article/layout/1_8_LDK_Cover.md)
 	+ [1.9 目录版面形式](/article/layout/1_9_LDK_Contents.md)
-	+ [1.10 CV版面模板](/article/layout/1_9_LDK_Contents.md)
+	+ [1.10 CV版面模板](/article/layout/1_10_LDK_CV.md)
 
 * [2 交互设计作品集版面](/article/ixd/tobedone.md)
 	+ [2.1 基于双钻模型的交互设计](/article/ixd/2_1_doublediamond.md)
