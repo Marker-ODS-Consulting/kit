@@ -20,4 +20,4 @@
 **Brandon Grotesque**
 ![Typography](http://kitpic.makebi.net/layout/c1/ldk_06.jpg)
 
-*关注马克笔公众号号获取Ai文件以及相应字体*
+
