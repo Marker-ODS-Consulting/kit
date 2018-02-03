@@ -4,24 +4,24 @@
 
 **室内设计** 
 一张素雅的却体现空间感的背景图片非常适合室内作品集的封面
-![Cover](https://i.imgur.com/IQQfjFv.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_38.jpg)
 
 **交互设计** 
 简洁流畅，具有平面设计感的封面也同样适合交互设计
-![Cover](https://i.imgur.com/Fy9El4h.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_39.jpg)
 
 **平面设计**
 点，线，面以及三原色，都是平面设计的最基本元素，这样的封面就非常符合平面作品集
-![Cover](https://i.imgur.com/41elAUJ.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_40.jpg)
 
 **建筑设计**
 背景图使用了一张水泥质感的图片，配合上细细的网格，好像混凝土中的钢筋网一样，非常适合建筑类的作品集
-![Cover](https://i.imgur.com/5xgOxxy.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_41.jpg)
 
 **工业设计**
 具有科技感的背景图对于工业设计作品集封面是一个不错的选择
-![Cover](https://i.imgur.com/TXu68St.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_42.jpg)
 
 **服装设计**
 古典且优雅的衬线字体非常适合服装类的作品集
-![Cover](https://i.imgur.com/RY7orJT.jpg)
+![Cover](http://kitpic.makebi.net/layout/c8/ldk_43.jpg)
