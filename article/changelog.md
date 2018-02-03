@@ -6,7 +6,6 @@
 * 调整 change log 为独立页面
 
 
-
 ###Alpha 0.7.0 20180201 
 * 加入了Layout 部分的一些内容
 * 基本明确了加入视频说明
@@ -35,3 +34,8 @@
 * 完成了项目初步的内部讨论
 * 完成了第一个kit 在Adobe Illustrator 中的尝试
 * 开始借助 Markdown + Gitbook 进行文字书写
+
+###Before Action / Dec,2017 
+* 在一次小会上提出想法，开始尝试
+* Inspired By [Carbon Design Kit](https://github.com/carbon-design-system/carbon-design-kit)
+* Thanks to [Carbon Design System](http://carbondesignsystem.com/)
