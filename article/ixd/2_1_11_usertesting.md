@@ -3,3 +3,5 @@
 
 ![](http://kitpic.makebi.net/ixd/1_11.jpg)
 其开展和进行过程的记录有以下几种呈现形式：
+
+![](http://kitpic.makebi.net/ixd/1_11_2.jpg)

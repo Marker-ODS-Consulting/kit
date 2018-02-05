@@ -9,3 +9,5 @@
 ![](http://kitpic.makebi.net/ixd/2_9.jpg)
 
 也可将硬件的多个角度拍照进行展示，排版构成有下面几种形式：
+
+![](http://kitpic.makebi.net/ixd/2_9_2.jpg)

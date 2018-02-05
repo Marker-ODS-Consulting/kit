@@ -8,5 +8,7 @@
 ![](http://kitpic.makebi.net/ixd/2_1.jpg)
 Storytelling其他的排版形式还有以下几种：
 
+![](http://kitpic.makebi.net/ixd/2_4_2.jpg)
 
+![](http://kitpic.makebi.net/ixd/2_2.jpg)
 注意：这里的Storytelling与Story Board不同，前者是对一种设计的思考，重点展现设计者自己的设计思考，而后者是对于一个既有内容的情节化叙述演绎。

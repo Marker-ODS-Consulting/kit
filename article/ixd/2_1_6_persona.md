@@ -4,9 +4,10 @@ Persona(用户画像)是基于项目目标而拟定的理想用户的假设模�
 
 
 简单的呈现形式可以参照下图：
-![](http://kitpic.makebi.net/ixd/1_4.jpg)
+![](http://kitpic.makebi.net/ixd/1_5.jpg)
 (图片需后期替换)
 
 更多的版面排列效果如下：
-
+![](http://kitpic.makebi.net/ixd/1_5_1.jpg)
+![](http://kitpic.makebi.net/ixd/1_5_2.jpg)
 注意：这里的用户画像与目标用户的概念容易混淆，目标用户是指现实中存在的一类用户特征的整理，而用户画像在现实中实际上是并不存在的。

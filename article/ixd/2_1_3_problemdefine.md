@@ -5,3 +5,5 @@
 
 
 更多的版面排列效果如下：
+![](http://kitpic.makebi.net/ixd/1_3_1.jpg)
+![](http://kitpic.makebi.net/ixd/1_3_2.jpg)
