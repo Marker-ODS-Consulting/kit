@@ -8,3 +8,4 @@
 
 
 更多的版面排列效果如下：
+![](http://kitpic.makebi.net/ixd/1_4_2.jpg)

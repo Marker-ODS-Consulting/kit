@@ -7,3 +7,7 @@ Coding(代码)这一部分内容在作品集中的呈现通常是以元件链接
 
 ![](http://kitpic.makebi.net/ixd/2_8.jpg)
 其他的版面呈现有以下几种形式：
+
+![](http://kitpic.makebi.net/ixd/2_8_1.jpg)
+
+![](http://kitpic.makebi.net/ixd/2_8_2.jpg)

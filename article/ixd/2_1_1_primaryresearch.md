@@ -4,6 +4,7 @@ Primary Research(一手调研)也称之为Field Research(田野调研), 其调�
 
 ![](http://kitpic.makebi.net/ixd/1_1.jpg)
 其开展和进行过程的记录有以下几种呈现形式：
+![](http://kitpic.makebi.net/ixd/1_1_1.jpg)
 ![](http://kitpic.makebi.net/ixd/1_1_2.jpg)
 
 
