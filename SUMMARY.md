@@ -35,7 +35,7 @@
 		- [2.2.2 Former Experiment](/article/ixd/2_2_2_formerexperiment.md)
 		- [2.2.3 Backgroung Research](/article/ixd/2_2_3_backgroundresearch.md)
 		- [2.2.4 Mechanism](/article/ixd/2_2_4_mechanism.md)
-               - [2.2.5 Coding](/article/ixd/2_2_5_coding.md)
+       - [2.2.5 Coding](/article/ixd/2_2_5_coding.md)
 		- [2.2.6 Module Framework](/article/ixd/2_2_7_moduleframwork.md)
 		- [2.2.7 Final Display](/article/ixd/2_2_9_finaldisplay.md)
 		- [2.2.8 Scenario](/article/ixd/2_2_8_scenario.md)
