@@ -4,6 +4,8 @@ Mindstorming(头脑风暴)是另外一种产生作为原创性设计的第一步
 
 
 
+11
+本章节已经删除
 这张已经去掉了
 ![](http://kitpic.makebi.net/ixd/2_2.jpg)
 Mindstorming其他的排版形式还有以下几种：
