@@ -5,7 +5,7 @@
 
 
 ###主要步骤
-* [3.1.1 Persona（人群）](/article/id/ucd/1_1_persona.html)  
+* 3.1.1 Persona（人群）
 * 3.1.2 Insight（洞察）
 * 3.1.3 Questionnaire（问卷）  
 * 3.1.4 Interview （访谈）  
