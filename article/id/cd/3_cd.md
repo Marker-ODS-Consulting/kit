@@ -23,8 +23,8 @@
   
 它在作品集中看起来大概是这个样子的：  
 
-![UCD Overview](http://kitpic.makebi.net/id/ued/ued.png)
-**此处图片待更新**
+![UCD Overview](http://kitpic.makebi.net/id/cd/00cd.png)
+
 
   
 这一章中我们只呈现了4页概念设计的样例，但是这并不代表作品集中一定要遵循这严格的4页，只需要大致思路上跟随上述思路即可。
