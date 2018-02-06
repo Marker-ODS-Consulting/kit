@@ -1,5 +1,5 @@
-## 2.2 Arduino Prototyping
-这一两年间，交互设计的主题日渐丰富，Arduino作为开源硬件的载体，越来越多的被学生采用，作为一个能够快速表现设计想法的工具，Arduino Prototyping多用于表现设计者自己对交互设计的思考，其开源的代码和丰富的硬件配置方便设计者快速的实现自己的Design Thinking，其呈现过程大致包含以下的设计步骤：
+## 2.2 原创性的设计思考呈现
+这一两年间，交互设计的主题日渐丰富，Arduino作为开源硬件的载体，越来越多的被学生采用，作为一个能够快速表现设计想法的工具，Arduino Prototyping多用于表现设计者自己对交互设计的思考，其开源的代码和丰富的硬件配置方便设计者快速的实现自己的Design Thinking，因此，在**原创性的设计思考呈现**部分主要以Arduino Prototyping的过程展现这一类型的作品集呈现形式，其过程大致包含以下的设计步骤：
 ###Story
 * 2.2.1 Story Telling
 * 2.2.2 Former Experiment

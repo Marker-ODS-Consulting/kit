@@ -1,4 +1,4 @@
-###2.2.7 Module Framework
+###2.2.6 Module Framework
 Mudule Framework(元件工作原理)板块主要呈现的是Arduino模型元件的工作机制，即Arduino主板与输入、输出信号间转换的转换原理。
 其排版形式可以参考下图：
 
