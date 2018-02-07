@@ -3,7 +3,7 @@ Customer Journey(用户旅程图)是指用户在使用前、使用中、使用�
 简单的呈现形式可以参照下图：
 
 ![](http://kitpic.makebi.net/ixd/1_12.jpg)
-其开展和进行过程的记录有以下的呈现形式：
+其开展和进行过程的记录也可参照以下的呈现形式：
 
 ![](http://kitpic.makebi.net/ixd/1_12_2.jpg)
 
