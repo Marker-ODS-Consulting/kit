@@ -3,8 +3,9 @@ Secondary Research(二手调研)也称之为Desk Research(办公桌前的调研)
 其排版可以参考以下的形式：
 
 ![](http://kitpic.makebi.net/ixd/2_4.jpg)
-其开展和进行过程的记录有以下几种呈现形式：
+其开展和进行过程的记录有以下的呈现形式：
 
+![](http://kitpic.makebi.net/ixd/1_2_1.jpg)
 
 
 

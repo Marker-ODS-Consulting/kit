@@ -3,16 +3,16 @@ Prototyping是对方案的最终呈现的草稿，完成形式是多样的，可
 
 
 
+![](http://kitpic.makebi.net/ixd/1_8_2.jpg)
 
-
-![](http://kitpic.makebi.net/ixd/1_8.jpg)
-(后期可能会被其他形式替换掉)
 
 其他的排版形式还可以参考以下几种：
 
 
 也可结合交互手势设计表现界面动态的细节，如下图：
 
-![](http://kitpic.makebi.net/ixd/1_8_2.jpg)
+![](http://kitpic.makebi.net/ixd/1_8.jpg)
 
 这个环节有时根据版面的需要也可能与测试环节一起呈现，请参照下图和本书的第2.1.11章节：
+
+![](http://kitpic.makebi.net/ixd/1_11.jpg)
