@@ -7,4 +7,6 @@
 
 ![](http://kitpic.makebi.net/ixd/2_10.jpg)
 
-其他的排版形式还有以下几种：
+在scenario较少时，也可参考以下排版形式：
+
+![](http://kitpic.makebi.net/ixd/2_10_2.jpg)
