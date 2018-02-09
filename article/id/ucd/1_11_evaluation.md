@@ -14,11 +14,11 @@
 
 ###作品集应用
 
-对于一个用户为中心的设计，设计的“好处”自然也应该是面向用户的，所以我们称之为“user benefits”. 如图：
+对于一个以用户为中心的设计，设计的“好处”自然也应该是面向用户的，所以我们称之为“user benefits”. 如图：
 
 ![Design Evaluation 设计评价](http://kitpic.makebi.net/id/ucd/id-25.jpg)
 
 如本页右边，我们会把用户获得的好处单独整理出来放在这里做展示，并且，大部分情况下，左侧的渲染图选择也会考虑到右侧的内容。所以在版面上，一般会通过文字梳理的形式进行 user benefits 的表现，并且通过 icon 在一定程度上增加可读性。
 
-注意，不同类型的项目在设计评估这里的叫法不同，UCD 的项目叫 user benefits 是因为以用户为中心；而以市场或竞品驱动的项目的评估可以叫它 unique selling points；以思维或创新驱动的项目的评估可以叫他 innovations. 
+注意，不同类型的项目在设计评估这里的叫法不同，UCD 的项目叫 user benefits ，是因为以用户为中心；而以市场或竞品驱动的项目的评估可以叫他 unique selling points；以思维或创新驱动的项目的评估可以叫他 innovations. 
 

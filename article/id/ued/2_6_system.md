@@ -10,7 +10,7 @@ System Map 的模式基本是固定的，所以它的版式也比较固定，即
 
 ![Service Blueprint Map 服务蓝图](http://kitpic.makebi.net/id/ued/id-37.jpg)
 
-以下是一种另外的 System Map 的版面表达，这种版面加入了 Stakeholder Map 来表现众多利益相关者之间的层级关系。
+以下是另外一种 System Map 的版面表达，这种版面加入了 Stakeholder Map 来表现众多利益相关者之间的层级关系。
 ![Service Blueprint Map 服务蓝图](http://kitpic.makebi.net/id/ued/id-38.jpg)
 
 ###拓展
