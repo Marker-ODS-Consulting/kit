@@ -17,7 +17,7 @@
 这个版面里虽然没有直接体现出 decision matrix，但是用类似优势劣势的分析体现出了一些对于各个概念的思考和筛选，并且用对勾的形式标注出了胜出概念。
 
 ---
-这里需要说明一下，所谓decision matrix 只是一个形式，而具体到工业设计概念筛选这里用到的表格，一般是 CS+CS 的两层表格，即 Concept Screening Table 和 Concept Scoring Table. 前者更加简单直接，多用于初步排除不良概念；而后者更加精确和明晰，多用户后续修改和延伸设计概念。
+这里需要说明一下，所谓decision matrix 只是一个形式，而具体到工业设计概念筛选这里用到的表格，一般是 CS+CS 的两层表格，即 Concept Screening Table 和 Concept Scoring Table. 前者更加简单直接，多用于初步排除不良概念；而后者更加精确和明晰，多用于后续修改和延伸设计概念。
 
 一般来说，作品集中只需要呈现CS2的表格就行了，即Concept Scoring Table, 因为从逻辑上说两个表格是雷同的，而CS2的表格更能够体现出缜密的过程和思路。
 
