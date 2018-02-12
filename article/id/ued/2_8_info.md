@@ -1,10 +1,10 @@
-##3.2.8 Information Architecture / Lo-Fi 信息架构 / 低保真原型
+##3.2.8 Info Archi & Lo-Fi / 信息架构 & 低保真原型
 
 
 这一页标题很长，主要分成两个方面：  
  
-* 1. Information Architecture 信息架构  
-* 2. Low-Fidelity Prototype 低保真原型
+* 1.Information Architecture 信息架构  
+* 2.Low-Fidelity Prototype 低保真原型
 
 ![用户体验的五个层次](http://kitpic.makebi.net/id/ued/5ofue.png)
 
