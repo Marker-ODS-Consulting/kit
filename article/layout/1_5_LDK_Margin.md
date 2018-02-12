@@ -18,5 +18,3 @@
 比较宽松的页边距设置，页边距内的面积相对较小，适合页面内容不是特别多的情况。
 
 ![Margin](http://kitpic.makebi.net/layout/c5/ldk_21.jpg)
-
-*关注马克笔公众号获取相应Ai文件*

@@ -39,5 +39,3 @@
 
 **模板12**
 ![Chapteropner](http://kitpic.makebi.net/layout/c7/ldk_36.jpg)
-
-*关注马克笔公众号获取Ai文件以及相应字体*

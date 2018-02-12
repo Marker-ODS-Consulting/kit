@@ -16,5 +16,3 @@ Scheme1-6以复合色配色和互补色配色为主
 Scheme7-12以单色配色为主
 
 ![color](http://kitpic.makebi.net/layout/c4/ldk_18.jpg)
-
-*关注马克笔公众号获取相应Ai文件*

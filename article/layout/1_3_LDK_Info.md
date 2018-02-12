@@ -41,4 +41,3 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 ![Infographic](http://kitpic.makebi.net/layout/c3/ldk_16.jpg)
 
 
-*关注马克笔公众号获取相应Ai文件*
