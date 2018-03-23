@@ -79,5 +79,5 @@
 	+ [5.5 分析图](/article/la/5_5.md)
 	+ [5.6 分析图（剖/截/立）](/article/la/5_6.md)
 	+ [5.7 效果图](/article/la/5_7.md)
-	+ [5.8 区位与现状](/article/la/5_8.md)
+	+ [5.8 植物配置/驳岸分析](/article/la/5_8.md)
 * [Change Log](/article/changelog.md)
