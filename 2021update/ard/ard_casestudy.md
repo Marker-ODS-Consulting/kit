@@ -8,13 +8,13 @@
 
 ###作品集应用
 
-![case study 案例分析](http://kitpic.makebi.net/2021/ard_02.jpg)
+![ Case study 案例分析](http://kitpic.makebi.net/2021/ard_02.jpg)
 
 一般一个项目我们会选择三个有代表性的案例进行分析，这三个尽量选择不同类型的设计，比如产品设计，装置设计，系统设计，概念设计等等。分析的重点可以放在切入点，交互方式，创新点这三个方面。
 
 
 以下是有关case study在作品集中的其他应用举例：
-![case study 案例分析](http://kitpic.makebi.net/2021/ard_03.jpg)
+![ Case study 案例分析](http://kitpic.makebi.net/2021/ard_03.jpg)
 
 我们可以选择几个维度，利用雷达图的方式去分析你选择的几个案例。一定要清楚，我们分析案例的目的是为了知道，已有的技术达到了什么程度，我们需要站在巨人的肩膀上往上走。
 
