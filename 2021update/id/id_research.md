@@ -19,4 +19,3 @@
 以下是有关Questionnaire 在工业设计作品集中的其他应用举例：
 ![3.1.2 Insight（洞察）](http://kitpic.makebi.net/id/ucd/id-06.jpg)
 同样，这里的左侧仍然是 insight 内容的一部分。当然，在版式上，questionnaire 这里并没有固定和统一的格式，根据需要有可能是从半页到两页左右，还需要根据具体的情况来定。本节内容也仅是参考。
-

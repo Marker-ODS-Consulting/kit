@@ -1,6 +1,6 @@
 # Summary
 
-* [序 介绍与版权](README.md)
+* [序 介绍与版权](README.md) 
 * [0 前言 如何使用这个Kit](/article/usage.md)
 * [1 作品集版面设计组件](/article/layout/1_0_LDK_Intro.md)
 	+ [1.1 字体与字号](/article/layout/1_1_LDK_Typo.md)
