@@ -15,7 +15,7 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 
 ####**饼图**
 基本样式使用ChartwellPies制作。
-![Infographic](http://kitpic.makebi.net/2021/lk_15.jpg)
+![Infographic 饼图](http://kitpic.makebi.net/2021/lk_15.jpg)
 
 #####**折线图**
 基本样式使用ChartwellLines制作
@@ -23,7 +23,7 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 
 #####**柱状图**
 基本样式使用BarsVertical制作
-![Infographic](http://kitpic.makebi.net/2021/lk_17.jpg)
+![Infographic BarsVertical ](http://kitpic.makebi.net/2021/lk_17.jpg)
 
 #####**横向柱状图**
 基本样式使用ChartwellBars制作
