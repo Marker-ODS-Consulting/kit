@@ -1,4 +1,5 @@
-##3.1.3 Questionnaire（问卷）
+
+##3.1.3 Info architecture & Lo-fi（信息架构与低保真）
 
 ###概念
 
@@ -7,7 +8,7 @@
 
 ###作品集应用
 
-![questionnaire research 问卷调研](http://kitpic.makebi.net/id/ucd/id-05.jpg)
+![questionnaire research 问卷调研](http://kitpic.makebi.net/2021/social_14.jpg)
 
 如上图右侧所示，一般来说问卷调研在作品集之中并不需要呈现完整的问卷调研全过程，仅需要将调研的结果做出呈现即可。而常用的图表无非饼状图、柱状图、折线图、环形图、雷达图等等。
 
@@ -17,5 +18,12 @@
 
 
 以下是有关Questionnaire 在工业设计作品集中的其他应用举例：
-![3.1.2 Insight（洞察）](http://kitpic.makebi.net/id/ucd/id-06.jpg)
+
 同样，这里的左侧仍然是 insight 内容的一部分。当然，在版式上，questionnaire 这里并没有固定和统一的格式，根据需要有可能是从半页到两页左右，还需要根据具体的情况来定。本节内容也仅是参考。
+
+
+
+
+---
+本内容:  
+Cheng 20210112 编辑添加

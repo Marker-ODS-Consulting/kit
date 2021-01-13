@@ -5,6 +5,7 @@
 - 完成内容更新
 - 开始图片规范导出上传图床
 - 开始内容书写
+- 添加 github-钉钉 内容推送
 
 ####Beta 2.0 20210106
 - 开始部署内容更新
@@ -66,7 +67,7 @@
 * 完成了第一个kit 在Adobe Illustrator 中的尝试
 * 开始借助 Markdown + Gitbook 进行文字书写
 
-####Before Action / Dec,2017 
+####Before Action / Dec,2017
 * 在一次小会上提出想法，开始尝试
 * Inspired By [Carbon Design Kit](https://github.com/carbon-design-system/carbon-design-kit)
 * Thanks to [Carbon Design System](http://carbondesignsystem.com/)
