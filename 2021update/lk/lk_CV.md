@@ -5,12 +5,12 @@
 **范例一**
 该模板中左侧的灰色色块部分可以是任何颜色，甚至是背景图片也可以。
 
-![CV](http://kitpic.makebi.net/2021/lk_57.jpg)
+![CV 个人简历](http://kitpic.makebi.net/2021/lk_57.jpg)
 
 **范例二**
-![CV](http://kitpic.makebi.net/2021/lk_58.jpg)
+![CV 个人简历](http://kitpic.makebi.net/2021/lk_58.jpg)
 
 **范例三**
 该模板中的灰色色块同范例一相同，可以是任何颜色和背景图片。  
 
-![CV](http://kitpic.makebi.net/2021/lk_59.jpg)
+![CV 个人简历](http://kitpic.makebi.net/2021/lk_59.jpg)

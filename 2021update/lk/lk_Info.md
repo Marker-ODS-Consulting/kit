@@ -15,28 +15,36 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 
 ####**饼图**
 基本样式使用ChartwellPies制作。
+<<<<<<< Updated upstream
 ![Infographic 饼图](http://kitpic.makebi.net/2021/lk_15.jpg)
+=======
+![Infographic 图表 信息可视化 饼图](http://kitpic.makebi.net/2021/lk_15.jpg)
+>>>>>>> Stashed changes
 
 #####**折线图**
 基本样式使用ChartwellLines制作
-![Infographic](http://kitpic.makebi.net/2021/lk_16.jpg)
+![Infographic 图表 信息可视化 折线图](http://kitpic.makebi.net/2021/lk_16.jpg)
 
 #####**柱状图**
 基本样式使用BarsVertical制作
+<<<<<<< Updated upstream
 ![Infographic BarsVertical ](http://kitpic.makebi.net/2021/lk_17.jpg)
+=======
+![Infographic 图表 信息可视化 柱状图](http://kitpic.makebi.net/2021/lk_17.jpg)
+>>>>>>> Stashed changes
 
 #####**横向柱状图**
 基本样式使用ChartwellBars制作
-![Infographic](http://kitpic.makebi.net/2021/lk_18.jpg)
+![Infographic 图表 信息可视化 横向柱状图](http://kitpic.makebi.net/2021/lk_18.jpg)
 
 #####**玫瑰图**
 基本样式使用ChartwellRose制作
-![Infographic](http://kitpic.makebi.net/2021/lk_19.jpg)
+![Infographic 图表 信息可视化 玫瑰图](http://kitpic.makebi.net/2021/lk_19.jpg)
 
 #####**环形图**
 基本样式使用ChartwellRing制作
-![Infographic](http://kitpic.makebi.net/2021/lk_20.jpg)
+![Infographic 图表 信息可视化 环状图](http://kitpic.makebi.net/2021/lk_20.jpg)
 
 #####**雷达图**
 基本样式使用ChartwellRadar制作
-![Infographic](http://kitpic.makebi.net/2021/lk_21.jpg)
+![Infographic 图表 信息可视化 雷达图](http://kitpic.makebi.net/2021/lk_21.jpg)

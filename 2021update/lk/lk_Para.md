@@ -4,12 +4,12 @@
 
 在排版中，正文段落格式一般有两种选择，分别为左对齐和两边对齐末行左对齐。
 
-![Paragraphy](http://kitpic.makebi.net/2021/lk_12.jpg)
+![Paragraphy 段落格式](http://kitpic.makebi.net/2021/lk_12.jpg)
 
 两种段落格式的正确效果如下图。左侧为两边对齐末行左对齐格式，可以看到整个文字段落非常整齐，文字间距也非常合适。右侧为左对齐，虽然右侧并不是非常整齐，但总体看起来也很不错。
 
-![Paragraphy](http://kitpic.makebi.net/2021/lk_13.jpg)
+![Paragraphy 段落格式](http://kitpic.makebi.net/2021/lk_13.jpg)
 
 下图为特殊情况下的段落使用技巧。我们可以看到，在左侧段落文字较少，并使用两边对齐末行左对齐的情况下，文字间距出现了异常，时大时小。这时我们需要将文字段落格式改为左对齐模式来确保文字间距的正常。
 
-![Paragraphy](http://kitpic.makebi.net/2021/lk_14.jpg)
+![Paragraphy 段落格式](http://kitpic.makebi.net/2021/lk_14.jpg)

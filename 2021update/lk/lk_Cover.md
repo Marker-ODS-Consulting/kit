@@ -4,27 +4,27 @@
 
 **室内设计**
 一张素雅的却体现空间感的背景图片，非常适合室内作品集的封面
-![Cover](http://kitpic.makebi.net/2021/lk_43.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_43.jpg)
 
 **交互设计**
 简洁流畅，具有平面设计感的封面，也同样适合交互设计
-![Cover](http://kitpic.makebi.net/2021/lk_44.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_44.jpg)
 
 **服务设计**
 孟菲斯设计风格
-![Cover](http://kitpic.makebi.net/2021/lk_45.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_45.jpg)
 
 **平面设计**
 点、线、面以及三原色，都是平面设计的最基本元素，这样的封面就非常符合平面作品集
-![Cover](http://kitpic.makebi.net/2021/lk_46.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_46.jpg)
 
 **建筑设计**
 背景图使用了一张水泥质感的图片，配合上细细的网格，好像混凝土中的钢筋网一样，非常适合建筑类的作品集
-![Cover](http://kitpic.makebi.net/2021/lk_47.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_47.jpg)
 
 **工业设计**
 具有科技感的背景图，对于工业设计作品集封面是一个不错的选择
-![Cover](http://kitpic.makebi.net/2021/lk_48.jpg)
+![Cover 封面样式](http://kitpic.makebi.net/2021/lk_48.jpg)
 
 **服装设计**
 古典且优雅的衬线字体，非常适合服装类的作品集
