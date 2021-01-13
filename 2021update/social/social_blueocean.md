@@ -1,5 +1,5 @@
 
-##3.1.3 Blue Ocean Strategy（蓝海战略）
+##4.2.5 Blue Ocean Strategy（蓝海战略）
 
 ###概念
 
