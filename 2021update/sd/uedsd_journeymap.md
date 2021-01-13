@@ -19,3 +19,8 @@ User Journey Map 也被称作 Customer Journey Map, 即用户旅程图或顾客�
 在有的教材或者案例之中， User Journey Map 中是不包含这一页所示的最下方的 Emotional Journey Map 的，但是由于用户体验本身就是更加关注用户内心以及情绪的变化，所以我们建议在用户旅程图中，都加入 Emotional Journey Map 的部分。  
 
 并且，根据我们的设计体系，Journey Map 并不能够直接推导出 Opportunity, 还需要把 Journey Map 的结论（用户体验变化）代入下一步的分析之中才能得出设计的目标。
+
+
+---
+本内容:  
+Natt 20210113 编辑添加
