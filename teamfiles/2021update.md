@@ -3,7 +3,7 @@
 ##### 图片
 
 - 图片导出以 Export for Screen 方式导出
-- Format 选项为：3x jpg80 精度
+- Format 选项为：3x jpg 80 精度
 - 图片导出后重命名:方向_编号.jpg，**如 ixd_01.jpg**  
 - Natt 负责统一上传至图床，图片互联网URL为：http://kitpic.makebi.net/2021/文件名.jpg
 
