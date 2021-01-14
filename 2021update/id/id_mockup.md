@@ -1,4 +1,4 @@
-##Mock-Up Development概念提升 II
+##Mock-Up Development 概念提升 II
 ###概念
 
 在设计深入的过程中，会遇到一个瓶颈，即在纸面上已经比较难区分出设计概念的好坏了，或是用户很难直观感知到与产品可能的接触与交互，于是这就需要我们借助Mock-Up Model 或者 Prorotype Model 来进行设计概念的测试，即前两节我们看到的设计流程图的的最后一个部分。
