@@ -89,14 +89,14 @@
 
 
 * [5 设计批评/思辨设计项目的作品集版面](/2021update/cdsd/cdsd_cover.md)
-	+ [5.1 思辨设计](/2021update/cdsd/cdsd_cover.md)
-		- [5.1.1 Overall design 总体设计](/2021update/cdsd/cdsd_overalldesign.md)
-		- [5.1.2 Stage one 第一阶段](/2021update/cdsd/cdsd_stageone.md)
-		- [5.1.3 Stage two 第二阶段](/2021update/cdsd/cdsd_stagetwo.md)
-		- [5.1.4 Stage two-output 第二阶段产出](/2021update/cdsd/cdsd_stoutput.md)
-		- [5.1.5 Stage three 第三阶段](/2021update/cdsd/cdsd_stagethree.md)
-		- [5.1.6 Stage three-output 第三阶段产出](/2021update/cdsd/cdsd_sthreeoutput.md)
-		- [5.1.7 Exhibition 展览](/2021update/cdsd/cdsd_exhibition.md)
+
+	+ [5.1.1 Overall design 总体设计](/2021update/cdsd/cdsd_overalldesign.md)
+	+ [5.1.2 Stage one 第一阶段](/2021update/cdsd/cdsd_stageone.md)
+	+ [5.1.3 Stage two 第二阶段](/2021update/cdsd/cdsd_stagetwo.md)
+	+ [5.1.4 Stage two-output 第二阶段产出](/2021update/cdsd/cdsd_stoutput.md)
+	+ [5.1.5 Stage three 第三阶段](/2021update/cdsd/cdsd_stagethree.md)
+	+ [5.1.6 Stage three-output 第三阶段产出](/2021update/cdsd/cdsd_sthreeoutput.md)
+	+ [5.1.7 Exhibition 展览](/2021update/cdsd/cdsd_exhibition.md)
 
 
 * [Change Log](/article/changelog.md)
