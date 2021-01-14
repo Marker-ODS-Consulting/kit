@@ -1,4 +1,4 @@
-##3.1.3 Discover- Current status & Main topic（现状分析 & 主要话题）
+##3.1.3 Current status & Main topic（现状分析 & 主要话题）
 
 ###概念
 Current status 现状调研 和 Main topic 主要话题，都属于二手调研的范畴。
