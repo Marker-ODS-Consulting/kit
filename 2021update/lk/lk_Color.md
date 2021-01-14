@@ -5,8 +5,8 @@
 *Tips：同一页面中不要出现过多颜色，对颜色搭配与控制能力不太高的用户，我建议同一页面中出现不超过三种颜色，一主色两辅色即可*
 
 
-![color](http://kitpic.makebi.net/2021/lk_22.jpg)
+![color 配色](http://kitpic.makebi.net/2021/lk_22.jpg)
 
-![color](http://kitpic.makebi.net/2021/lk_23.jpg)
+![color 配色](http://kitpic.makebi.net/2021/lk_23.jpg)
 
-![color](http://kitpic.makebi.net/2021/lk_24.jpg)
+![color 配色](http://kitpic.makebi.net/2021/lk_24.jpg)
