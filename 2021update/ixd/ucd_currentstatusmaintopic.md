@@ -1,7 +1,7 @@
 ##3.1.3 Discover- Current status & Main topic（现状分析 & 主要话题）
 
 ###概念
-current status 现状调研 和 main topic 主要话题，都属于二手调研的范畴。
+Current status 现状调研 和 Main topic 主要话题，都属于二手调研的范畴。
 
 Current status 现状分析 和背景调研相似，都是对于项目背景和话题现状的调研。
 
@@ -21,7 +21,6 @@ Main topic 主要话题，也可以叫做 Literature review 文件综述，它�
  - 将话题中阐述的原理可视化。
 
 主要话题在作品集中不需要占用太大版面，基本在1/4页到1页的空间，不同的话题在提炼和可视化时需要具体问题具体分析。
-
 
 
 ---

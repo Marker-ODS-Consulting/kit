@@ -1,4 +1,4 @@
-##3.1.3 Discover- Interview & Questionnaire（访谈 & 问卷调研）
+##3.1.3 Interview & Questionnaire（访谈 & 问卷调研）
 
 ###概念
 
@@ -19,6 +19,7 @@ Questionnaire 问卷调研属于一手调研，是一种以书面形式收集信
 
 以下是有关背景调研在交互设计作品集中的其它举例：
 ![Interview Questionnaire 访谈 问卷](http://kitpic.makebi.net/2021/ixd_06.jpg)
+
 
 
 
