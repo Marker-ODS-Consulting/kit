@@ -5,37 +5,37 @@
 下面提供了12种基本的版面形式，你可以直接借用，或者在此基础上进行深化做出你自己的章节页面。
 
 **模板1**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_31.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_31.jpg)
 
 **模板2**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_32.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_32.jpg)
 
 **模板3**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_33.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_33.jpg)
 
 **模板4**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_34.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_34.jpg)
 
 **模板5**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_35.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_35.jpg)
 
 **模板6**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_36.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_36.jpg)
 
 **模板7**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_37.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_37.jpg)
 
 **模板8**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_38.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_38.jpg)
 
 **模板9**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_39.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_39.jpg)
 
 **模板10**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_40.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_40.jpg)
 
 **模板11**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_41.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_41.jpg)
 
 **模板12**
-![Chapteropner](http://kitpic.makebi.net/2021/lk_42.jpg)
+![Chapteropner 小封面 章节页](http://kitpic.makebi.net/2021/lk_42.jpg)
