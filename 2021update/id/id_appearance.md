@@ -1,4 +1,4 @@
-##3.1.9 Moodboard & Appearance 情绪板与外观
+##3.1.8 Moodboard & Appearance 情绪板与外观
 ###概念
 
 一般来说，在更偏重于功能的设计项目中，外观的设计是要在功能设计定案之后的。所谓 form follows function. 所以，在通过测试阶段，产品的功能属性得到明确的验证之后，就到了外观阶段。

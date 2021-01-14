@@ -1,4 +1,4 @@
-##Concept Development 概念发展 I
+##3.1.6 Concept Development 概念发展 I
 ###概念
 
 严格地说，所谓 Concept Improvement 应该是设计推进中的第二和第三阶段，因为 concept screen 和 concept scoring 都是概念筛选和深入的方法，这两个方法需要深入可以参考"Product Design and Development" 一书，这里默认读者了解这些前置知识。
