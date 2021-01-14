@@ -1,4 +1,4 @@
-##3.1.3 Define- Value proposition canvas（价值主张画布）
+##3.1.3 Value proposition canvas（价值主张画布）
 
 ###概念
 

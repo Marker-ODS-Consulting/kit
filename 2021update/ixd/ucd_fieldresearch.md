@@ -1,4 +1,4 @@
-##3.1.3 Discover- Field research（实地考察）
+##3.1.3 Field research（实地考察）
 
 ###概念
 
