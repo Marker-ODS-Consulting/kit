@@ -3,6 +3,10 @@
 
 ###1.1构成  
 这个在线工具由两部分构成：  
+</BR>  
+###**书** + **Ai** 
+</BR>   
+
 ![《版面速食/设计留学作品集全攻略》](http://kitpic.makebi.net/2021/promo-mc-bk.jpg)
 - **书**：《版面速食/设计留学作品集全攻略》，书共有三种形式
     - 持续更新的在线网站版本，网站：http://kit.makebi.net
@@ -12,9 +16,10 @@
 </BR>
 
     ![《版面速食/设计留学作品集全攻略》](http://kitpic.makebi.net/2021/promo-mc-ai.jpg)
+</BR>
 - **Ai工程文件**：基于 Adobe Illustrator 制作的素材工程文件 “大北窑作品集工具套装”，获取方式点击 [大北窑作品集工具套装发布页](http://kit.makebi.net/dl_kit)  
 </BR>
-</BR>
+
 
 最佳的使用方式，是在 **书** 的帮助下，使用 **Ai工程文件**。
 
