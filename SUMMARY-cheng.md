@@ -97,7 +97,7 @@
 		- [4.2.9 Hifi 高保真](/2021update/social/social_hifi.md)
 		- [4.2.10 Blueprint 服务蓝图](/2021update/social/social_blueprint.md)
 		- [4.2.11 Touchpoint map 触点图](/2021update/social/social_touchpoint.md)
-* [5 设计批评/思辨设计项目的作品集版面](/2021update/cdsd/cdsd_cover.md)
+* [5 设计批评/思辨设计项目的作品集版面](/2021update/cdsd/cdsd.md)
 	+ [5.1 Overall design 总体设计](/2021update/cdsd/cdsd_overalldesign.md)
 	+ [5.2 Stage one 第一阶段](/2021update/cdsd/cdsd_stageone.md)
 	+ [5.3 Stage two 第二阶段](/2021update/cdsd/cdsd_stagetwo.md)
