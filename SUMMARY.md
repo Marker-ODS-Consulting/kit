@@ -2,8 +2,8 @@
 
 * [0 序 介绍与版权](README.md)
 * [1 如何使用本书这个Kit](/2021update/usage.md)
-* [2 交互设计作品集版面](/article/ixd/part_two_ixd.md)
-	+ [2.1 基于双钻模型的交互设计]( )
+* [2 交互设计作品集版面](/2021update/ixd/ixd.md)
+	+ [2.1 UCD 交互设计](/2021update/ixd/2_1_ucd.md)
 		- [2.1.1 背景调研](/2021update/ixd/ucd_background.md)
 		- [2.1.2 现状分析 & 主要话题](/2021update/ixd/ucd_currentstatusmaintopic.md)
 		- [2.1.3 访谈 & 问卷调研](/2021update/ixd/ucd_interviewquestionnatre.md)
@@ -30,7 +30,7 @@
 		- [2.2.8 Final work 最终模型展示](/2021update/ard/ard_finalwork.md)
 		- [2.2.9 User test &. Feedback 用户测试与反馈](/2021update/ard/ard_usertest.md)
 		- [2.2.10 Future plan 未来计划](/2021update/ard/ard_futureplan.md)
-	+ [2.3 Gaming 游戏化交互设计]( )
+	+ [2.3 Game Design 交互游戏体验](/2021update/ixd/2_3_game.md)
 		- [2.3.1 背景 & 参考](/2021update/ixd/gaming_backgroundref.md)
 		- [2.3.2 游戏流程 & 游戏原则](/2021update/ixd/gaming_processprinciple.md)
 		- [2.3.3 角色 & 元素](/2021update/ixd/gaming_character.md)
@@ -100,4 +100,3 @@
     * [6.10 目录样式](/2021update/lk/lk_Contents.md)
     * [6.11 个人简历](/2021update/lk/lk_CV.md)
 * [Change Log](article/changelog.md)
-
