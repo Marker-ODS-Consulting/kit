@@ -2,7 +2,7 @@
 
 * [0 序 介绍与版权](README.md)
 * [1 如何使用本书这个Kit](/2021update/usage.md)
-* [2 交互设计作品集版面](/2021update/ixd/part2_ixd.md)
+* [2 交互设计作品集版面](/2021update/ixd/ixd.md)
 	+ [2.1 UCD 交互设计](/2021update/ixd/2_1_ucd.md)
 		- [2.1.1 背景调研](/2021update/ixd/ucd_background.md)
 		- [2.1.2 现状分析 & 主要话题](/2021update/ixd/ucd_currentstatusmaintopic.md)
