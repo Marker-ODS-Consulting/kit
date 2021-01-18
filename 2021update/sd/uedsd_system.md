@@ -1,4 +1,4 @@
-##3.2.6 System Map 系统图
+##4.1.6 System Map 系统图
 ###概念
 System Map 系统图表达的是服务模式之中各个 stakeholder 利益相关者所处的地位与相互间的配合。一般通过 icon + 引导线 的形式表达出 information fow, material flow 和 financial flow 三条流线，即从信息、物质和金钱的角度描述系统如何运行。而一些情况下，也可以加入诸如 劳动力流 Labour Flow 或者 服务流 Service Flow 的线条和内容。
 
