@@ -2,8 +2,6 @@
 
 * [0 序 介绍与版权](README.md)
 * [1 如何使用本书这个Kit](2021update/usage.md)
-
------
 * [2 交互设计作品集版面](article/ixd/part_two_ixd.md)
     * [2.1 基于双钻模型的交互设计](article/ixd/2_1_doublediamond.md)
         * [2.1.1 Primary Research](article/ixd/2_1_1_primaryresearch.md)
@@ -49,8 +47,6 @@
         * [3.2.2 Ideation 概念发展](2021update/id/idcd_ideation.md)
         * [3.2.3 Rendering 渲染](2021update/id/idcd_rendering.md)
         * [3.2.4 Details 设计细节](2021update/id/idcd_detail.md)
-
------
 * [4 服务设计类的作品集版面](article/iad/4_0_IAD_Intro.md)
     * [4.1 用户体验体验驱动的服务设计](2021update/sd/2_ued.md)
         * [4.2.1 Research 调研](2021update/sd/uedsd_research.md)
