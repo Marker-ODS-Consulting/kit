@@ -1,25 +1,32 @@
 
-##4.2.3 User experience map（用户体验地图）
+##4.2 社会创新类服务设计项目排版版面
 
 ###概念
 
 用户体验地图，又被称作用户旅程地图。它展示的是用户在使用一款产品和服务的过程中，每个阶段的体验，包括 行为、感受（痛点和满意点）、思考想法。通过图形化的方式直观的记录和整理每个阶段的体验，让产品的设计参与者、决策者对用户的体验有更为直观的印象。
 
+本书想要做社会创新类服务设计项目的学生提供做项目的思路：
+
+* 4.2.1 总体设计 ( Design Brief )
+* 4.2.2 调研 ( Research )
+* 4.2.3 用户体验地图 ( User journey map )
+* 4.2.4 同理心地图 ( Empathy map )
+* 4.2.5 蓝海战略 ( Blue ocean startegy )
+* 4.2.6 问题阐述与价值主张 ( Value proposition & Problem statement )
+* 4.2.7 硬件产出 ( Hardware )
+* 4.2.8 信息架构与低保真 ( Info Architecture & Lo-fi )
+* 4.2.9 高保真 ( Hifi )
+* 4.2.10 服务蓝图 ( Blueprint )
+* 4.2.11 触点图 ( Touchpoint map )
+
+
 
 ###作品集应用
 
-![ User experience map 用户体验地图 ](http://kitpic.makebi.net/2021/social_05.jpg)
+![ 社会创新类服务设计项目排版版面 ](http://kitpic.makebi.net/2021/social_05.jpg)
 
 做用户体验地图的第一步就是需要列出 User action这一条线，切记这条服务线一定是没有我们的设计之前的用户体验过程。这是之后区别于服务蓝图很重要的一点。
 
-
-以下是有关 User experience map 在作品集中的其他应用举例：  
-
-![ User experience map 用户体验地图 ](http://kitpic.makebi.net/2021/social_06.jpg)
-
-我们一般会在用户旅程图中放入情绪曲线（ Emotion map）。用户在整个体验过程中会有情绪的低点和高点，我们需要在图中标明清楚情绪高点和低点的原因是什么。情绪曲线的可视化形式有很多，大家可以根据排版位置的不同做调整。
-
-
 ---
 本内容:  
-Cheng 20210113 编辑添加
+Cheng 20210116 编辑添加
