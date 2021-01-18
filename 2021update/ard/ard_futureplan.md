@@ -3,7 +3,7 @@
 
 ###概念
 
-经典的 Double diamond有四个阶段， Dicover， Define， Develop， Deliver。其实还有第五个阶段，我们称之为“Evolve”。我们的 Future plan其实就属于第五阶段。
+经典的 Double diamond有四个阶段， Discover， Define， Develop， Deliver。其实还有第五个阶段，我们称之为“Evolve”。我们的 Future plan其实就属于第五阶段。
 
 
 ###作品集应用
@@ -19,4 +19,5 @@
 
 ---
 本内容:  
+Yuan 20210118 编辑校对
 Cheng 20210112 编辑添加
