@@ -23,7 +23,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://kk.makebi.net/"
+            "prefix": "http://kit.makebi.net/"
         }
     }
 }

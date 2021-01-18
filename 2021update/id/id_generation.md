@@ -1,4 +1,4 @@
-##3.1.6 Concept Generation 概念生成
+##3.1.5 Concept Generation 概念生成
 ###概念
 在概念生成与发展阶段，传统工业设计一般遵循初版出版于1994年，由Karl Ulrich, Steven D. Eppinger 共同撰写的 "Product Design and Development" 一书。
 

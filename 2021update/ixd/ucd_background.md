@@ -1,4 +1,4 @@
-##3.1.3 Discover- Background（背景调研）
+##2.1.1 Background（背景调研）
 
 ###概念
 
@@ -20,6 +20,7 @@
 ![background research 背景调研](http://kitpic.makebi.net/2021/ixd_03.jpg)
 
 背景调研出现在项目的首页，因此建议用清晰的小标题和简单扼要的短句，配合图片、图标、数据表格来呈现，还可以尝试使用拼贴、时间轴等视觉表达形式。
+
 
 
 
