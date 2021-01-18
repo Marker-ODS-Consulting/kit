@@ -1,15 +1,15 @@
 ## 2.3 Game Design 交互游戏体验
 Game Design 交互游戏体验以数字游戏的交互体验为主，更侧重游戏视觉的设计，体现学生对某个主题的游戏化思考，以及对游戏中交互体验的探索。思路上为了体现原创性的设计思考，整体结构以 Story-Theory-Thing 的思路展现。
 
-###Story
+#####Story
 * 2.3.1 Background & reference
 
 
-###Theory
+#####Theory
 * 2.3.2 Game process & Principle
 
 
-###Thing
+#####Thing
 * 2.3.3 Background Concept Design
 * 2.3.4 Character & element design
 * 2.3.5 Game UI
