@@ -1,4 +1,4 @@
-##3.2.4 Service Ecology Map 服务生态图
+##4.1.4 Service Ecology Map 服务生态图
 ###概念
 服务生态图是服务设计项目特有的构思方法，如果套用 Double Diamond 的设计逻辑的话，它基本上是正式进入 Design(或Develop)步骤了。服务生态图一般用来探索围绕这项服务中的5W1H，即从 what, where, when, who, why 和 how 这样的角度完全展开服务的生态，然后从中寻找和构建新的生态可能性。  
 

@@ -1,4 +1,4 @@
-##3.2.1 Journey Map 旅程图
+##4.1.2 Journey Map 旅程图
 
 ###概念
 User Journey Map 也被称作 Customer Journey Map, 即用户旅程图或顾客旅程图，它是用来记录和描述用户在接触、使用、离开我们的产品或服务全过程所接触到的触点、所思以及情绪的变化（Emotional Journey Map），这个方法几乎在任何与UED相关的设计中都会被用到。  
