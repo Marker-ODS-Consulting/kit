@@ -1,4 +1,4 @@
-##3.1.3 Deliver- Storyboard & scenario（故事板 & 场景图）
+##2.1.15 Storyboard & Scenario（故事板 & 场景图）
 
 ###概念
 Storyboard 故事版是以讲故事的方式，用情节、角色、场景等手法来展现设计要点。故事板它适用于交互设计的多个阶段，应用在发展 develop 阶段，用于表现初期设计概念；应用在交付 deliver 阶段，用于展现最终产出。

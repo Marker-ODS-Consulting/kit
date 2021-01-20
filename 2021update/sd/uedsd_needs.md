@@ -1,4 +1,4 @@
-##Needs Map & Offering Map 需求图&供给图
+##4.1.3 Needs Map & Offering Map 需求图&供给图
 ###概念
 所谓“需求图”和“供给图”都是我们强行翻译的，这个部分很好理解，由上一页的Journey Map 发现的痛点，向前略做推进即可转化为“用户的需求“Needs”，而用户需求直接对应的就是“我提供什么给他们”，即“Offering”。
 

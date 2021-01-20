@@ -1,4 +1,4 @@
-##3.2.11 Touchpoint Map/Storyboard 触点图/故事板
+##4.1.11 Touchpoint Map/Storyboard 触点图/故事板
 
 ###概念
 对于大部分设计项目来说，后期如果能够有一张贯穿产品使用的故事板，将能够在很大程度上提升设计表现，而对于一个服务设计来说，故事板的叙事能力就有所限制了，所以我们需要以一种故事板的加强形式体现，即 Touchpoint Map, 对比 Storyboard Touchpoint Map 其实就是加强了触点表现力的 Storyboard 而已。只要这个版面上能够清晰体现设计的流程和触点的流程中的被使用情况就行。
