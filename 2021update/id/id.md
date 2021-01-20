@@ -10,7 +10,7 @@
 * **3.1传统用户为中心的工业设计 UCD**
 * **3.2以红点概念奖为代表的概念设计 CD**
 
-注: 
+注:
 UCD = User Center Design
 CD = Conceptual Design
 
@@ -28,4 +28,5 @@ CD = Conceptual Design
 
 ---
 本内容:  
+Yuan 20210120 编辑校对
 Natt 20210118 编辑添加

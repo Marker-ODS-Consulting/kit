@@ -18,11 +18,12 @@
 其余的版面可能性如下：
 ![moodboard and appearance 情绪板与外观设计](http://kitpic.makebi.net/2021/id_19.jpg)
 
-  
-  
+
+
 ![moodboard and appearance 情绪板与外观设计](http://kitpic.makebi.net/2021/id_20.jpg)
 
 
 ---
 本内容:  
+Yuan 20210119 编辑校对
 Natt 20210113 编辑添加
