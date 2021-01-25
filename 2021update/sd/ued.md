@@ -10,7 +10,7 @@
 
 
 * 4.1.1 Research 调研
-* 4.1.2 Journey Map 用户旅程图 
+* 4.1.2 Journey Map 用户旅程图
 * 4.1.3 Needs/Offering 需求图/提供图
 * 4.1.4 Service Ecology 服务生态图
 * 4.1.5 Blueprint Map 服务蓝图
@@ -25,13 +25,17 @@
 
 
 ###作品集呈现  
-  
+
 它在作品集中看起来大概是这个样子的：  
 
 ![UED Service Design Overview](http://kitpic.makebi.net/2021/uedsd_overall.jpg)
 
-  
+
 后续的章节将逐一介绍每个要点在作品集中的典型呈现形式。
 
-  
+
 注意：本书中的所有举例仅是一些版面的可能性，并不能涵盖所有版面，所以在使用的时候注意灵活运用，结合自己具体的项目内容与版面风格进行，切不可完全照搬。
+
+
+本内容：
+Yuan 20210125 编辑校对

@@ -14,11 +14,12 @@
 
 
 以下是有关 Hi-Fi 在作品集中的其他应用举例：
-![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_16.jpg) 
+![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_16.jpg)
 
 我们在展示高保真的时候，可以用一张一张单独界面展示，也可以用 Mock up模型去展示。我们可以在网上下载对应尺寸的 Mock up样机，把自己的高保真页面贴上去。
 
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Cheng 20210113 编辑添加

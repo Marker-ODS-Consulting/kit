@@ -10,7 +10,7 @@ Scenario 和 Storyboard 叫法不同内核相同。
 ![Storyboard  scenario 故事板 场景图](http://kitpic.makebi.net/2021/ixd_30.jpg)
 故事板不一定要用“画”的方式，也可以通过拍摄真实场景来完成。
 
-制作故事板时要注意把我叙事节奏，突出重点。
+制作故事板时要注意把握叙事节奏，突出重点。
 
 以下是有关scenario在交互设计作品集中的其它举例：
 ![scenario 场景](http://kitpic.makebi.net/2021/ixd_31.jpg)
@@ -21,4 +21,5 @@ Scenario 和 Storyboard 叫法不同内核相同。
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Muzi 20210112 编辑添加

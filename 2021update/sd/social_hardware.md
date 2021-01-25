@@ -14,13 +14,14 @@
 
 在这里强调一下场景图的制作，我们选择渲染场景图时，要选择干净一点的底图，不要让过于花哨的图片抢了你硬件产品的风头。
 
-以下是有关硬件产出在作品集中的其他应用举例： 
+以下是有关硬件产出在作品集中的其他应用举例：
 
-![ Hardware 硬件产出 ](http://kitpic.makebi.net/2021/social_13.jpg) 
+![ Hardware 硬件产出 ](http://kitpic.makebi.net/2021/social_13.jpg)
 
-![ Hardware 硬件产出 ](http://kitpic.makebi.net/2021/social_14.jpg) 
+![ Hardware 硬件产出 ](http://kitpic.makebi.net/2021/social_14.jpg)
 
 
 ---
-本内容:  
+本内容:
+Yuan 20210125 编辑校对  
 Cheng 20210113 编辑添加

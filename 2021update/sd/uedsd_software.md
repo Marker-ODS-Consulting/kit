@@ -2,7 +2,7 @@
 
 ###概念
 这一页标题很长，主要分成两个方面：  
- 
+
 * 1.Information Architecture 信息架构  
 * 2.Low-Fidelity Prototype 低保真原型
 
@@ -20,4 +20,5 @@ Information Architecture 信息架构是在偏重于有界面的交互设计中�
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Natt 20210113 编辑添加

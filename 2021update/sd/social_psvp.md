@@ -15,10 +15,11 @@
 
 
 以下是价值主张画布在作品集中的其他应用举例：
-![ Value proposition canvas 价值主张画布 ](http://kitpic.makebi.net/2021/social_11.jpg) 
+![ Value proposition canvas 价值主张画布 ](http://kitpic.makebi.net/2021/social_11.jpg)
 
 价值主张画布包含两个部分，客户细分/客户群像部分帮助我们明确并可视化用户的需求，而价值主张/价值地图部分，则用于设计和测试解决方案，确保我们所提供的解决方案能够给用户创造相应的价值。
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Cheng 20210113 编辑添加

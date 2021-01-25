@@ -18,11 +18,12 @@
 
 
 以下是商业价值画布在作品集中的其他应用举例：
-![ Business model canvas 商业价值画布](http://kitpic.makebi.net/2021/social_19.jpg) 
+![ Business model canvas 商业价值画布](http://kitpic.makebi.net/2021/social_19.jpg)
 
 商业模式画布是一种用来描述商业模式、可视化商业模式、评估商业模式以及改变商业模式的通用语言。主要包含客户细分、价值主张、渠道通路、客户关系、收入来源、核心资源、关键业务、重要合作、成本结构九个模块。
 
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Cheng 20210113 编辑添加

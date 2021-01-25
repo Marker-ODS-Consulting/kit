@@ -15,4 +15,5 @@ Value proposition canvas 价值主张画布，是 Problem statement 问题阐述
 
 ---
 本内容:  
+Yuan 20210125 编辑校对
 Muzi 20210112 编辑添加
