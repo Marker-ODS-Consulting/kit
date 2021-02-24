@@ -16,7 +16,7 @@
 
 ![《版面速食/设计留学作品集全攻略》](http://kitpic.makebi.net/2021/promo-mc-ai.jpg)
 
-- **Ai工程文件**：基于 Adobe Illustrator 制作的素材工程文件 “大北窑作品集工具套装”，获取方式点击 [大北窑作品集工具套装发布页](http://kit.makebi.net/2021update/publish.html)  
+- **Ai工程文件**：基于 Adobe Illustrator 制作的素材工程文件 “大北窑作品集工具套装”，获取方式点击 [大北窑作品集工具套装发布页](http://kit.makebi.net/v2/publish.html)  
 
 
 
