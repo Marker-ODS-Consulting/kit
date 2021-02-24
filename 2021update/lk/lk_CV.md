@@ -16,5 +16,5 @@
 ![CV 个人简历](http://kitpic.makebi.net/2021/lk_59.jpg)
 
 本内容：
-Yuan 20210125 编辑校对
+Yuan 20210125 编辑校对  
 an 20210110 初建

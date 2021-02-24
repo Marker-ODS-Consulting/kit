@@ -50,5 +50,5 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 ![Infographic 图表 信息可视化 雷达图](http://kitpic.makebi.net/2021/lk_21.jpg)
 
 本内容：
-Yuan 20210125 编辑校对
+Yuan 20210125 编辑校对  
 an 20210110 初建
