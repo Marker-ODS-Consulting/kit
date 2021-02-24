@@ -99,5 +99,6 @@
     * [6.9 封面样式](/v2/lk/lk_Cover.md)
     * [6.10 目录样式](/v2/lk/lk_Contents.md)
     * [6.11 个人简历](/v2/lk/lk_CV.md)  
-* [附录·大北窑作品集工具套装发布页](/v2/publish.md)  		
+* [附录·大北窑作品集工具套装发布页](/v2/publish.md)  
+* [提交bug](/bug.md)  		
 * [Change Log](changelog.md)
