@@ -93,7 +93,7 @@
     * [6.3 字体字号](/2021update/lk/lk_Typo.md)
     * [6.4 段落格式](/2021update/lk/lk_Para.md)
     * [6.5 信息可视化](/2021update/lk/lk_Info.md)
-    * [6.6 配色方案](/021update/lk/lk_Color.md)
+    * [6.6 配色方案](/2021update/lk/lk_Color.md)
     * [6.7 页眉页脚](/2021update/lk/lk_Pageheader.md)
     * [6.8 项目章节页](/2021update/lk/lk_Chapteropener.md)
     * [6.9 封面样式](/2021update/lk/lk_Cover.md)
