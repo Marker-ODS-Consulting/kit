@@ -99,5 +99,5 @@
     * [6.9 封面样式](/2021update/lk/lk_Cover.md)
     * [6.10 目录样式](/2021update/lk/lk_Contents.md)
     * [6.11 个人简历](/2021update/lk/lk_CV.md)  
-* [大北窑作品集工具套装发布页](/2021update/publish.md)  		
+* [附录·大北窑作品集工具套装发布页](/2021update/publish.md)  		
 * [Change Log](changelog.md)
