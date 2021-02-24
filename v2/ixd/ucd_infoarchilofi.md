@@ -1,4 +1,4 @@
-##2.1.12 Information Architecture & lofi（信息架构 & 低保真原型）
+##2.1.12 Information Architecture & lofi 信息架构 & 低保真原型 
 
 ###概念
 ##### Information Architecture 信息架构

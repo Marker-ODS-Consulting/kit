@@ -1,4 +1,4 @@
-##2.3.3 Character & element design（角色设计）
+##2.3.3 Character & element design 角色设计 
 
 ###概念
 

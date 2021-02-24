@@ -1,5 +1,5 @@
 
-##4.2.8 Info architecture & Lo-fi（信息架构与低保真）
+##4.2.8 Info architecture & Lo-fi 信息架构与低保真
 
 ###概念
 

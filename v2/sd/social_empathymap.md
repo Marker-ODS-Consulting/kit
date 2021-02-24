@@ -1,5 +1,5 @@
 
-##4.2.4 Empathy map（同理心地图）
+##4.2.4 Empathy map 同理心地图
 
 ###概念
 
