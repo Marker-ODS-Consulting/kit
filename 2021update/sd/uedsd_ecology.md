@@ -26,6 +26,6 @@
 希望深入了解 Service Ecology Map 及其背后的服务设计思维，可以深入阅读[服务设计与创新实践](https://book.douban.com/subject/26464952/)。
 
 
-本内容：
+本内容:  
 Yuan 20210125 编辑校对  
 Natt 20210113 编辑添加

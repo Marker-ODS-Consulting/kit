@@ -27,6 +27,6 @@ PDS指的是 Product Design Specification，与产品设计相关的任何内容
 在内容之下，就是对于所有调研结果的总结，通过 icon+文字的形式表达PDS（有时候也写作 Design Spec, spec 就是业内对于 specification 的简写）。
 
 ---
-本内容:  
+本内容:    
 Yuan 20210120 编辑校对  
 Natt 20210113 编辑添加

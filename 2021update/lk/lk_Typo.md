@@ -32,6 +32,6 @@
 ![Typography 字体字号](http://kitpic.makebi.net/2021/lk_11.jpg)
 
 
-本内容：
+本内容:  
 Yuan 20210125 编辑校对  
 an 20210110 初建

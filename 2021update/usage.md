@@ -14,7 +14,7 @@
     - 纸质版本，我们会印刷少量纸质版本免费发送，请关注[马克笔设计留学](http://makebi.net)公众号，我们将会不定期在活动中免费发送    
 
 
-    ![《版面速食/设计留学作品集全攻略》](http://kitpic.makebi.net/2021/promo-mc-ai.jpg)
+![《版面速食/设计留学作品集全攻略》](http://kitpic.makebi.net/2021/promo-mc-ai.jpg)
 
 - **Ai工程文件**：基于 Adobe Illustrator 制作的素材工程文件 “大北窑作品集工具套装”，获取方式点击 [大北窑作品集工具套装发布页](http://kit.makebi.net/dl_kit)  
 
