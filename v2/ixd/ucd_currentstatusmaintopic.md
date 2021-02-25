@@ -1,19 +1,18 @@
-##2.1.2 Current Status & Main Topic 现状分析 & 主要话题 
+##2.1.2 Current Status & Main Topic 现状分析 & 主要话题
 
 ###概念
-Current status 现状调研 和 Main topic 主要话题，都属于二手调研的范畴。
+Current Status 现状调研 和 Main Topic 主要话题，都属于二手调研的范畴。
 
 #####Current status 现状分析
 它和背景调研相似，都是对于项目背景和话题现状的调研。
 #####Main topic 主要话题
-主要话题也可以叫做 Literature review 文件综述，它是从公开发表的研究和项目中提取有用信息，为现有项目提供建议，主要话题的重点在与归纳整合信息，以项目为中心发掘话题之间的联系。
+主要话题也可以叫做 Literature Review 文件综述，它是从公开发表的研究和项目中提取有用信息，为现有项目提供建议，主要话题的重点在与归纳整合信息，以项目为中心发掘话题之间的联系。
 它的主要目的在于，通过专业的研究和项目扩宽思路，也为后续的设计提供理论依据。主要话题可以是独立的工作，因此它可以出现在 Discover 阶段的任何一个步骤。
 
 ###作品集应用
 
 ![current status 现状调研 main topic 主要话题](http://kitpic.makebi.net/2021/ixd_04.jpg)
 如上图，左边为现状调研，右边为主要话题。
-
 现状调研和背景调研大体相似，具体内容参考[ixd_background]
 主要话题可以包含一下内容：
  - 话题的主要内容。

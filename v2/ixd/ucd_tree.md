@@ -1,4 +1,4 @@
-##2.1.9 Problem tree & Problem statement & Value proposition 问题树 & 问题阐述 & 价值主张 
+##2.1.9 Problem tree & Problem statement & Value proposition 问题树 & 问题阐述 & 价值主张
 
 ###概念
 #####Problem tree 问题树
@@ -11,7 +11,7 @@
 
   价值主张是针对问题阐述给出的大致解决方向，可以按照下图中给出的句式来书写。
 
-  问题阐述和价值主张通常一起出现，起到一个承上启下的作用（呈define，启develop）
+  问题阐述和价值主张通常一起出现，起到一个承上启下的作用（呈 Define, 启 Develop）
 
 ###作品集应用
 

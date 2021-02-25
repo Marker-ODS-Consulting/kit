@@ -1,4 +1,4 @@
-##2.1.12 Information Architecture & lofi 信息架构 & 低保真原型 
+##2.1.12 Information Architecture & Lofi 信息架构 & 低保真原型
 
 ###概念
 ##### Information Architecture 信息架构
@@ -10,7 +10,7 @@
 
 #####Lo-Fi 低保真原型
 
-Lo-Fi 全称 Low fidelity prototype，低保真原型是数字产品框架层的表现。它是在设计初期帮助我们验证想法的粗略表述，它主要描绘设计方案和界面布局，可以使用软件、手绘、纸模等各种低成本的方式制作。
+Lo-Fi 全称 Low Fidelity Prototype，低保真原型是数字产品框架层的表现。它是在设计初期帮助我们验证想法的粗略表述，它主要描绘设计方案和界面布局，可以使用软件、手绘、纸模等各种低成本的方式制作。
 
 ###作品集应用
 

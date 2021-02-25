@@ -2,7 +2,7 @@
 
 ###概念
 
-Value proposition canvas 价值主张画布，是 Problem statement 问题阐述 和 Value proposition 价值主张的结合体。它出现在项目中调研的后面，概念发展的前面，起到承上启下的作用。在价值主张画布中，展开描述了设计提供者如何通过其产品和服务来缓解用户的痛点，达到用户的目标。
+Value Proposition Canvas 价值主张画布，是 Problem Statement 问题阐述 和 Value Proposition 价值主张的结合体。它出现在项目中调研的后面，概念发展的前面，起到承上启下的作用。在价值主张画布中，展开描述了设计提供者如何通过其产品和服务来缓解用户的痛点，达到用户的目标。
 
 ###作品集应用
 

@@ -6,12 +6,12 @@ Game Design 交互游戏体验以数字游戏的交互体验为主，更侧重�
 
 
 #####Theory
-* 2.3.2 Game process & Principle
+* 2.3.2 Game Process & Principle
 
 
 #####Thing
 * 2.3.3 Background Concept Design
-* 2.3.4 Character & element design
+* 2.3.4 Character & Element design
 * 2.3.5 Game UI
 
 
@@ -26,3 +26,4 @@ Game Design 交互游戏体验以数字游戏的交互体验为主，更侧重�
 
 本内容：  
 Yuan 20210125 编辑校对  
+Muzi 20210112 编辑添加
