@@ -8,12 +8,12 @@
 
 ###作品集应用
 
-![aeiou poems](http://kitpic.makebi.net/2021/ixd_35.jpg)
+![game process](http://kitpic.makebi.net/2021/ixd_35.jpg)
 
 用流程图交代游戏的玩法，注意区分不同的角色和关卡。
 
 游戏原理部分尽量具体问题具体分析选择不同形式的可视化表现。
-
+![game process](http://kitpic.makebi.net/2021/ixd_35-2.jpg)
 
 
 
