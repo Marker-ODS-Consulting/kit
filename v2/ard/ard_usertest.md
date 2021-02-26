@@ -1,5 +1,5 @@
 
-##2.2.9 User test & Feedback（用户测试与反馈）
+##2.2.9 User Test & Feedback（用户测试与反馈）
 
 ###概念
 
@@ -8,13 +8,13 @@
 
 ###作品集应用
 
-![ User test & feedback 用户测试与反馈](http://kitpic.makebi.net/2021/ard_13.jpg)
+![ User Test & Feedback 用户测试与反馈](http://kitpic.makebi.net/2021/ard_13.jpg)
 
 一般我们会找多个用户进行测试，这里包括极端用户。我们测试的重点就是是否产生了交互错误，还有就是整个交互过程是否流畅，以及你的想法是否传递给了你的观众。在写反馈的时候，尽量保持真实。
 
 
-以下是有关 User test & feedback在作品集中的其他应用举例：
-![ User test & feedback 用户测试与反馈](http://kitpic.makebi.net/2021/ard_14.jpg)
+以下是有关 User Test & Feedback 在作品集中的其他应用举例：
+![ User Test & Feedback 用户测试与反馈](http://kitpic.makebi.net/2021/ard_14.jpg)
 
 反馈这里，我们再多说一些。用户的反馈我们并不是都要采用，我们作为设计师要选取那些对我们有价值的反馈。设计师是通过设计去传递价值的，我们要学会分辨哪些对我们来说是有用的反馈，而不是一味地让用户牵着鼻子走。
 
