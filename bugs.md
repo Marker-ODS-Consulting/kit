@@ -13,20 +13,20 @@
 2.1.5 正文文字   
 2_1_ucd 正文文字
 2_3_game 正文文字
-game_processprinciple 正文文字
-game_backgroundcd 正文文字
-game_character 正文文字
-game_processprinciple 正文文字
-ucd_background 正文文字
-ucd_casestudy 正文文字
-ucd_currentstatusmaintopic 正文文字
-ucd_fieldresearch 正文文字
-ucd_hifi 正文文字
-ucd_infoarchilofi 正文文字
-ucd_journey 正文文字
-ucd_neeoffmap 正文文字
-ucd_persona 正文文字
-ucd_s&s 正文文字
-ucd_tree 正文文字
-ucd_usability 正文文字
-ucd_vapropocanvas 正文文字
+2.3.2 Game Process & Principle 正文文字，改图
+2.3.1 Background & Reference 正文文字，改图
+2.3.3 Character & Element Design 正文文字
+2.3.2 Game Process & Principle 正文文字，加了图二
+2.1.1 Background 正文文字
+2.1.5 Case Study 正文文字
+2.1.2 Current Status & Main Topic 正文文字
+2.1.4 Field Research 正文文字
+2.1.14 Hi-fi 正文文字
+2.1.12 Information Architecture & Lofi 正文文字
+2.1.7 Journey Map 正文文字
+2.1.11 Needs & Offerings Map 正文文字
+2.1.8 Persona 正文文字
+2.1.15 Storyboard & Scenario 正文文字
+2.1.9 Problem tree & Problem statement & Value proposition 正文文字
+2.1.13 Usability Test 正文文字
+2.1.10 Value Proposition Canvas 正文文字

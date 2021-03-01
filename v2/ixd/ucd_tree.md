@@ -1,11 +1,11 @@
-##2.1.9 Problem tree & Problem statement & Value proposition 问题树 & 问题阐述 & 价值主张
+##2.1.9 Problem Tree & Problem Statement & Value Proposition 问题树 & 问题阐述 & 价值主张
 
 ###概念
-#####Problem tree 问题树
+#####Problem Tree 问题树
 
  以类似“树”的形式梳理问题的方法，中间为聚焦的问题，向上梳理问题所造成的影响，向下梳理导致问题的原因。
 
-#####Problem statement & Value proposition 问题阐述和价值主张
+#####Problem Statement & Value Proposition 问题阐述和价值主张
 
   问题阐述是将前期调研收集到的问题和痛点经过整合，用简洁的语言陈述出来，可以搭配插画或图标来展示。
 
