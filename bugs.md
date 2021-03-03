@@ -26,7 +26,10 @@
 2.1.7 Journey Map 正文文字
 2.1.11 Needs & Offerings Map 正文文字
 2.1.8 Persona 正文文字
-2.1.15 Storyboard & Scenario 正文文字
-2.1.9 Problem tree & Problem statement & Value proposition 正文文字
-2.1.13 Usability Test 正文文字
-2.1.10 Value Proposition Canvas 正文文字
+2.1.15 Storyboard & Scenario 正文文字  
+2.1.9 Problem tree & Problem statement & Value proposition 正文文字  
+2.1.13 Usability Test 正文文字  
+2.1.10 Value Proposition Canvas 正文文字  
+3.1.1 当然，persona 还可以有其他的一些形式，大致如以下这些图例所示 部分更改空格  
+3.2 页面中，“它的步骤一般是最短的。大致如下：” 后 “3.2.1” 后文字改变  
+3.1 页面唯一的图片更新

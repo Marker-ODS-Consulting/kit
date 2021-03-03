@@ -17,7 +17,7 @@
 
 一般来说，在标准的A4幅面作品集中，除非项目内容特别庞杂，persona board 是可以独占一页的。
 
-当然，persona还可以有其他的一些形式，大致如以下这些图例所示：
+当然，persona 还可以有其他的一些形式，大致如以下这些图例所示：
 
 ![persona board](http://kitpic.makebi.net/2021/id_03.jpg)
 上图是另外一种 persona board 的呈现，左侧的内容是 who they are, 内容主要是展现他们生活状态一些细节的图片；右边的内容是围绕用户的 daily brands, 通过品牌来体现用户的定位。
