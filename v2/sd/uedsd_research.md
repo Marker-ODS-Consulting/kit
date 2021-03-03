@@ -12,7 +12,7 @@
 
 ![Research 调研](http://kitpic.makebi.net/2021/uedsd_02.jpg)
 
-可以看到，版面左边是 “On-Site Research”，实地调研。因为服务设计与周边的环境（context）关系密切，所以会更多用到实地调研的方法。有时也会用到 Shadowing （影子追踪）的调研方法。
+可以看到，版面左边是 “On-Site Research”，实地调研。因为服务设计与周边的环境 (Context) 关系密切，所以会更多用到实地调研的方法。有时也会用到 Shadowing （影子追踪）的调研方法。
 
 而右侧，就和其他项目的访谈、问卷等类似，这里的版面仅仅是个例子。
 

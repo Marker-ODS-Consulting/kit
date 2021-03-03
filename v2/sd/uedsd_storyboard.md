@@ -14,7 +14,7 @@
 
 这个版面呈现的是一张很整齐的故事板，如之前所述，服务设计的故事板一定要强调触点，于是在这种故事板上，各个触点会被以 上色、放大、独立展示 等方式加强。
 
-当然，Touchpoint Map 还可以以类似脑图的形式呈现，或以 scenario 或者没有外框的 storyboard 的形式呈现，如下几张版面所示：
+当然，Touchpoint Map 还可以以类似脑图的形式呈现，或以 Scenario 或者没有外框的 Storyboard 的形式呈现，如下几张版面所示：
 ![Touchpoint Map/Storyboard 触点图/故事板](http://kitpic.makebi.net/2021/uedsd_22.jpg)
 
 ![Touchpoint Map/Storyboard 触点图/故事板](http://kitpic.makebi.net/2021/uedsd_23.jpg)

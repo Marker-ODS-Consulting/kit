@@ -24,7 +24,7 @@
 以及：
 ![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_16.jpg)
 
-如果手绘内容较少，也可以适当加入一点 inspiration board 或者 moodboard 之类的内容。可以参考版面速食中，工业设计部分内容。
+如果手绘内容较少，也可以适当加入一点 Inspiration Board 或者 Moodboard 之类的内容。可以参考版面速食中，工业设计部分内容。
 
 
 
