@@ -1,5 +1,5 @@
 
-##5.1.7 Exhibition  展览 
+##5.1.7 Exhibition  展览
 
 ###概念
 
@@ -10,7 +10,7 @@
 
 ![ Exhibition 展览](http://kitpic.makebi.net/2021/cdsd_17.jpg)
 
-思辨设计的重点可以是“黑色幽默”和“荒诞”。我们需要通过最终的设计去引发公民的思考。 Speculative Design practice inspires thinking, raisesawareness, examines, provokes action, opens discussionsand has the potential to offer alternative directions andpositive shifts that are urgently needed in today’s world.
+思辨设计的重点可以是“黑色幽默”和“荒诞”。我们需要通过最终的设计去引发公民的思考。 Speculative Design practice inspires thinking, raises awareness, examines, provokes action, opens discussionsand has the potential to offer alternative directions andpositive shifts that are urgently needed in today’s world.
 
 
 以下是有关 Exhibition 在思辨项目中的其他表现形式：
