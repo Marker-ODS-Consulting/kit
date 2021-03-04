@@ -1,9 +1,6 @@
 
-<<<<<<< Updated upstream:v2/cdsd/cdsd_overalldesign.md
-##5.1.1 Overall design 总体设计 
-=======
-##5.1.1 Overall Design（总体设计）
->>>>>>> Stashed changes:2021update/cdsd/cdsd_overalldesign.md
+##5.1 Overall Design（总体设计）
+
 
 ###概念
 

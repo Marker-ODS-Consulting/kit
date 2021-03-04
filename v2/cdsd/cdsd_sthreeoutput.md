@@ -1,14 +1,12 @@
 
-##5.1.6 Stage three-output 第三阶段
+##5.6 Stage three-output 第三阶段
 
 ###概念
 
-<<<<<<< Updated upstream:v2/cdsd/cdsd_sthreeoutput.md
 批判性设计采⽤思辨的⽅式，去挑战狭隘的假设和先⼊之见，并思考产品在日常⽣活中所扮演的⻆色。我们在 Overall design时列出来的时间线到第三个阶段的时候，要注意三个阶段之间的关联性。
-=======
+
 批判性设计采⽤思辨的⽅式，去挑战狭隘的假设和先
 ⼊之见，并思考产品在日常⽣活中所扮演的⻆色。我们在 Overall Design 时列出来的时间线到第三个阶段的时候，要注意三个阶段之间的关联性。
->>>>>>> Stashed changes:2021update/cdsd/cdsd_sthreeoutput.md
 
 
 ###作品集应用

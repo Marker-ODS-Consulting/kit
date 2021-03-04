@@ -1,9 +1,6 @@
 
-<<<<<<< Updated upstream:v2/cdsd/cdsd_stageone.md
-##5.1.2 Stage one 第一阶段 
-=======
-##5.1.2 Stage One（第一阶段）
->>>>>>> Stashed changes:2021update/cdsd/cdsd_stageone.md
+##5.2 Stage One（第一阶段）
+
 
 ###概念
 
