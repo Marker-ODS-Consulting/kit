@@ -8,13 +8,13 @@
 
 本书想要做思辨项目的学生提供做项目的思路：
 
-* 5.1 总体设计 ( Overall Design )
-* 5.2 第一阶段 ( Stage One )
-* 5.3 第二阶段 ( Stage Two )
-* 5.4 第二阶段产出 ( Stage two-output )
-* 5.5 第三阶段 ( Stage Three )
-* 5.6 第三阶段产出 ( Stage three-output )
-* 5.7 展览 ( Exhibition )
+* 5.1.1 总体设计 ( Overall Design )
+* 5.1.2 第一阶段 ( Stage One )
+* 5.1.3 第二阶段 ( Stage Two )
+* 5.1.4 第二阶段产出 ( Stage two-output )
+* 5.1.5 第三阶段 ( Stage Three )
+* 5.1.6 第三阶段产出 ( Stage three-output )
+* 5.1.7 展览 ( Exhibition )
 
 
 ###作品集应用
