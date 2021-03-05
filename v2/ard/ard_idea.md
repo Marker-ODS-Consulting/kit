@@ -1,5 +1,5 @@
 
-##2.2.4 Idea Development（想法发散）
+##2.2.4 Idea Development 想法发散
 
 ###概念
 

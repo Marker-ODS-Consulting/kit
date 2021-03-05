@@ -1,5 +1,5 @@
 
-##2.2.3 Storyboard（故事版）
+##2.2.3 Storyboard 故事版
 
 ###概念
 
@@ -14,11 +14,8 @@
 以下是有关 Storyboard 在作品集中的其他应用形式：
 ![ Storyboard 故事版](http://kitpic.makebi.net/2021/ard_05.jpg)
 
-<<<<<<< Updated upstream:v2/ard/ard_storyboard.md
+
 装置类项目我们除了故事版之外，还需要做交互流程线（ Interaction flow），交互流程线就是我们需要把整个装置的每一个交互阶段都分析清楚，输入是什么，输出是什么，用户的几个交互触点是什么。
-=======
-装置类项目我们除了故事版之外，还需要做交互流程线（ Interaction Flow ），交互流程线就是我们需要把整个装置的每一个交互阶段都分析清楚，输入是什么，输出是什么，用户的几个交互触点是什么。 
->>>>>>> Stashed changes:2021update/ard/ard_storyboard.md
 
 ---
 本内容:    

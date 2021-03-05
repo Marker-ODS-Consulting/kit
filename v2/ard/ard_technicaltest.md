@@ -1,5 +1,5 @@
 
-##2.2.5 Technical Test（技术测试）
+##2.2.5 Technical Test 技术测试
 
 ###概念
 
