@@ -1,4 +1,4 @@
-##2.1.11 Needs & Offerings Map 需求供给图
+##2.1.11 需求供给图 Needs & Offerings Map 
 
 ###概念
 

@@ -1,4 +1,4 @@
-##2.1.2 Current Status & Main Topic 现状分析 & 主要话题
+##2.1.2 现状分析 & 主要话题 Current Status & Main Topic
 
 ###概念
 Current Status 现状调研 和 Main Topic 主要话题，都属于二手调研的范畴。

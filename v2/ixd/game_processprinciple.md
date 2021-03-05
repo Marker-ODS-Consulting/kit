@@ -1,4 +1,4 @@
-##2.3.2 Game Process & Principle 游戏流程和原则
+##2.3.2 游戏流程和原则 Game Process & Principle
 
 ###概念
 游戏流程指游戏的玩法设计，多使用流程图来表示。

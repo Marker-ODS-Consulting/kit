@@ -1,4 +1,4 @@
-##2.1.10 Value Proposition Canvas 价值主张画布
+##2.1.10 价值主张画布 Value Proposition Canvas
 
 ###概念
 

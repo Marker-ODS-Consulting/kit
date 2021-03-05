@@ -1,4 +1,4 @@
-##2.3.4 Background Concept Design 游戏场景设计
+##2.3.4 游戏场景设计 Background Concept Design 
 
 ###概念
 

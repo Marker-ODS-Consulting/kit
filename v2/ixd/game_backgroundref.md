@@ -1,4 +1,4 @@
-##2.3.1 Background & Reference 背景调研 & 参考
+##2.3.1 背景调研 & 参考 Background & Reference 
 
 ###概念
 

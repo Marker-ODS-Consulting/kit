@@ -1,4 +1,4 @@
-##2.1.3 Interview & Questionnaire 访谈 & 问卷调研 
+##2.1.3 访谈 & 问卷调研 Interview & Questionnaire
 
 ###概念
 

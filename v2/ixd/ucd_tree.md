@@ -1,4 +1,4 @@
-##2.1.9 Problem Tree & Problem Statement & Value Proposition 问题树 & 问题阐述 & 价值主张
+##2.1.9 问题树 & 问题阐述 & 价值主张 Problem Tree & Problem Statement & Value Proposition
 
 ###概念
 #####Problem Tree 问题树

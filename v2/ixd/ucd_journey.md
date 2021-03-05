@@ -1,4 +1,4 @@
-##2.1.7 Journey Map 用户旅程图
+##2.1.7 用户旅程图 Journey Map
 
 ###概念
 
