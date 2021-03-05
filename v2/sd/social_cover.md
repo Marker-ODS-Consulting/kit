@@ -7,17 +7,17 @@
 
 本书想要做社会创新类服务设计项目的学生提供做项目的思路：
 
-* 4.2.1 总体设计 ( Design Brief )
-* 4.2.2 调研 ( Research )
-* 4.2.3 用户体验地图 ( User journey map )
-* 4.2.4 同理心地图 ( Empathy map )
-* 4.2.5 蓝海战略 ( Blue ocean startegy )
-* 4.2.6 问题阐述与价值主张 ( Value proposition & Problem statement )
-* 4.2.7 硬件产出 ( Hardware )
-* 4.2.8 信息架构与低保真 ( Info Architecture & Lo-fi )
-* 4.2.9 高保真 ( Hifi )
-* 4.2.10 服务蓝图 ( Blueprint )
-* 4.2.11 触点图 ( Touchpoint map )
+* 4.2.1 Design Brief 设计简报
+* 4.2.2 Research 调研
+* 4.2.3 User journey map 用户体验地图
+* 4.2.4 Empathy map 同理心地图
+* 4.2.5 Blue ocean stategy 蓝海战略
+* 4.2.6 Value proposition & Problem statement 问题阐述与价值主张
+* 4.2.7 Hardware 硬件产出
+* 4.2.8 Info Architecture & Lo-fi 信息架构与低保真
+* 4.2.9 Hifi 高保真
+* 4.2.10 Blueprint 服务蓝图
+* 4.2.11 Touchpoint map 触点图
 
 
 ###作品集应用
