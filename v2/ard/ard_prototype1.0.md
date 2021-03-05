@@ -1,5 +1,5 @@
 
-##2.2.6 Prototype 1.0 & Test（第一代模型测试）
+##2.2.6 Prototype 1.0 & Test 第一代模型测试
 
 ###概念
 

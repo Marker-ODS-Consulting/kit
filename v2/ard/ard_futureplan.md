@@ -1,13 +1,9 @@
 
-##2.2.10 Future Plan（未来计划）
+##2.2.10 Future Plan 未来计划
 
 ###概念
 
-<<<<<<< Updated upstream:v2/ard/ard_futureplan.md
 经典的 Double diamond有四个阶段， Discover， Define， Develop， Deliver。其实还有第五个阶段，我们称之为“Evolve”。我们的 Future plan其实就属于第五阶段。
-=======
-经典的 Double Diamond 有四个阶段，Dicover ，Define ，Develop ，Deliver 。其实还有第五个阶段，我们称之为“ Evolve ”。我们的 Future Plan 其实就属于第五阶段。
->>>>>>> Stashed changes:2021update/ard/ard_futureplan.md
 
 
 ###作品集应用
