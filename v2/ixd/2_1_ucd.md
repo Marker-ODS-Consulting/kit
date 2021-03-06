@@ -3,27 +3,27 @@ UCD交互设计项目，以数字产品（App,网站等）为主要产出的交�
 
 Double Diamond 双钻模型，是一种结构化的设计方法，本质是从发现问题到解决问题的一种思维方式，它把整个设计过程分为两个钻石，四个大的阶段: Discover 探索, Define 定义, Develop 发展, Deliver 产出.每个阶段包含若干个设计的步骤，在 UCD交互设计项目中这些步骤规划如下：
 #####Discover 探索
-* 2.1.1 背景调研
-* 2.1.2 现状分析 & 主要话题
-* 2.1.3 访谈 & 问卷调研
-* 2.1.4 实地考察
-* 2.1.5 竞品分析
-* 2.1.6 用户观察框架
+* 2.1.1 Background 背景调研
+* 2.1.2 Current Status & Main Topic 现状分析 & 主要话题
+* 2.1.3 Interview & Questionnaire 访谈 & 问卷调研
+* 2.1.4 Field Research 实地考察
+* 2.1.5 Case Study 竞品分析
+* 2.1.6 AEIOU & POEMS 用户观察框架
 
 #####Define 定义
-* 2.1.7 用户旅程图
-* 2.1.8 用户画像
-* 2.1.9 问题树 & 问题阐述 & 价值主张
-* 2.1.10 价值主张画布
-* 2.1.11 需求供给图
+* 2.1.7 Journey Map 用户旅程图
+* 2.1.8 Persona 用户画像
+* 2.1.9 Problem Tree & Problem Statement & Value 问题树 & 问题阐述 & 价值主张
+* 2.1.10 Value Proposition Canvas 价值主张画布
+* 2.1.11 Needs & Offerings Map 需求供给图
 
 #####Develop 发展
-* 2.1.12 信息架构 & 低保真原型
-* 2.1.13 可用性测试
+* 2.1.12 Information Architecture & Lo-fi 信息架构 & 低保真原型
+* 2.1.13 Usability Test 可用性测试
 
 #####Deliver 产出
-* 2.1.14 高保真原型
-* 2.1.15 故事板 & 场景
+* 2.1.14 Hi-fi 高保真原型
+* 2.1.15 Storyboard & Scenario 故事板 & 场景
 
 
 
