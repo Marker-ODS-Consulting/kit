@@ -12,7 +12,7 @@ Scenario 和 Storyboard 叫法不同内核相同。
 
 制作故事板时要注意把握叙事节奏，突出重点。
 
-以下是有关 scenario 在交互设计作品集中的其它举例：
+以下是有关 Scenario 在交互设计作品集中的其它举例：
 ![scenario 场景](http://kitpic.makebi.net/2021/ixd_31.jpg)
 
 
