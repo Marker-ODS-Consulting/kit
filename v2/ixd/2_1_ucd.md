@@ -13,7 +13,7 @@ Double Diamond 双钻模型，是一种结构化的设计方法，本质是从�
 #####Define 定义
 * 2.1.7 Journey Map 用户旅程图
 * 2.1.8 Persona 用户画像
-* 2.1.9 Problem Tree & Problem Statement & Value 问题树 & 问题阐述 & 价值主张
+* 2.1.9 Problem Tree & Problem Statement & Value Proposition 问题树 & 问题阐述 & 价值主张
 * 2.1.10 Value Proposition Canvas 价值主张画布
 * 2.1.11 Needs & Offerings Map 需求供给图
 
