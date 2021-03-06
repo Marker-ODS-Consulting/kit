@@ -11,7 +11,7 @@
 
 一般来说，在作品集中只需要体现出一些手绘生成概念的过程即可，然后就可以直接以效果图的形式呈现设计成果了，如下版面：
 
-![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_14.jpg)
+![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_13.jpg)
 
 虽然将手绘和渲染图放在了一张页面中，但一定要注意以下两点：
 
@@ -19,10 +19,10 @@
 * 手绘一定是要呈现概念生成和发展的草图，而非设计表现手绘
 
 以下是版面的另外一些可能性：
-![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_15.jpg)
+![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_14.jpg)
 
 以及：
-![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_16.jpg)
+![Hardware 硬件设计](http://kitpic.makebi.net/2021/uedsd_15.jpg)
 
 如果手绘内容较少，也可以适当加入一点 inspiration board 或者 moodboard 之类的内容。可以参考版面速食中，工业设计部分内容。
 
