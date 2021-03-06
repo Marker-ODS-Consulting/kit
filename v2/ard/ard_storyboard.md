@@ -1,5 +1,5 @@
 
-##2.2.3 Storyboard 故事版
+##2.2.3 Storyboard 故事板
 
 ###概念
 

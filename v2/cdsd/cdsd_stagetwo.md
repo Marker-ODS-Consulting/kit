@@ -1,9 +1,6 @@
 
-<<<<<<< Updated upstream:v2/cdsd/cdsd_stagetwo.md
-##5.1.3 Stage two 第二阶段 
-=======
 ##5.1.3 Stage Two（第二阶段）
->>>>>>> Stashed changes:2021update/cdsd/cdsd_stagetwo.md
+
 
 ###概念
 
