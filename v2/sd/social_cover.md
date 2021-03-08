@@ -9,15 +9,15 @@
 
 * 4.2.1 Design Brief 设计简报
 * 4.2.2 Research 调研
-* 4.2.3 User journey map 用户体验地图
-* 4.2.4 Empathy map 同理心地图
-* 4.2.5 Blue ocean stategy 蓝海战略
-* 4.2.6 Value proposition & Problem statement 问题阐述与价值主张
+* 4.2.3 User Journey Map 用户体验地图
+* 4.2.4 Empathy Map 同理心地图
+* 4.2.5 Blue Ocean Stategy 蓝海战略
+* 4.2.6 Value Proposition & Problem Statement 问题阐述与价值主张
 * 4.2.7 Hardware 硬件产出
 * 4.2.8 Info Architecture & Lo-fi 信息架构与低保真
 * 4.2.9 Hifi 高保真
 * 4.2.10 Blueprint 服务蓝图
-* 4.2.11 Touchpoint map 触点图
+* 4.2.11 Touchpoint Map 触点图
 
 
 ###作品集应用

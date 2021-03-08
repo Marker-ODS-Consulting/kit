@@ -1,5 +1,5 @@
 
-##4.2.10 Service blueprint & Business model canvas 服务蓝图 & 商业价值画布 
+##4.2.10 Service Blueprint & Business Model Canvas 服务蓝图 & 商业价值画布
 
 ###概念
 
