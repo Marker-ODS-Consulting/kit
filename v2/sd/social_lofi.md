@@ -8,7 +8,7 @@
 
 ###作品集应用
 
-![questionnaire research 问卷调研](http://kitpic.makebi.net/2021/social_14.jpg)
+![questionnaire research 问卷调研](http://kitpic.makebi.net/2021/social_15.jpg)
 
 信息架构在展示的时候，我们是一层一层去写的。一般写到三，四级就可以了。在以内容为主的界面上，信息架构主要的工作是组织分类和导航的结构，让用户可以更高效、有效地浏览内容。信息架构要求创建分类体系，我们可以使用两种方式来建立：「从上到下」和「从下到上」。
 

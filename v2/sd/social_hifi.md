@@ -8,13 +8,13 @@
 
 ###作品集应用
 
-![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_15.jpg)
+![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_16.jpg)
 
 下面我通过三个方面介绍高保真的特征。视觉设计：逼真细致的设计 – 所有界面元素、间距和图形看起来就像一个真正的App或网站。内容：设计人员使用真实或类似于真实内容。原型包括最终设计中显示的大部分或全部内容。交互性：原型在交互层面非常逼真。
 
 
 以下是有关 Hi-Fi 在作品集中的其他应用举例：
-![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_16.jpg)
+![ Hi-Fi 高保真 ](http://kitpic.makebi.net/2021/social_17.jpg)
 
 我们在展示高保真的时候，可以用一张一张单独界面展示，也可以用 Mock Up 模型去展示。我们可以在网上下载对应尺寸的 Mock Up 样机，把自己的高保真页面贴上去。
 
