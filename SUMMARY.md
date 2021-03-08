@@ -95,7 +95,7 @@
     * [6.4 Paragraph段落格式](v2/lk/lk_Para.md)
     * [6.5 Inforgraphic信息可视化](v2/lk/lk_Info.md)
     * [6.6 Color Scheme配色方案](v2/lk/lk_Color.md)
-    * [6.7 Headerand Footer页眉页脚](v2/lk/lk_Pageheader.md)
+    * [6.7 Header and Footer页眉页脚](v2/lk/lk_Pageheader.md)
     * [6.8 Chapter Opener项目章节页](v2/lk/lk_Chapteropener.md)
     * [6.9 Cover封面样式](v2/lk/lk_Cover.md)
     * [6.10 Contents目录样式](v2/lk/lk_Contents.md)
