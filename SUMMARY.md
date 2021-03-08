@@ -8,7 +8,7 @@
         * [2.1.2 Current Status & Main Topic 现状分析 & 主要话题](v2/ixd/ucd_currentstatusmaintopic.md)
         * [2.1.3 Interview & Questionnaire 访谈 & 问卷调研](v2/ixd/ucd_interviewquestionnaire.md)
         * [2.1.4 Field Research 实地考察](v2/ixd/ucd_fieldresearch.md)
-        * [2.1.5 Case study 竞品分析](v2/ixd/ucd_casestudy.md)
+        * [2.1.5 Case Study 竞品分析](v2/ixd/ucd_casestudy.md)
         * [2.1.6 AEIOU & POEMS 用户观察框架](v2/ixd/ucd_aeioupoems.md)
         * [2.1.7 Journey Map 用户旅程图](v2/ixd/ucd_journey.md)
         * [2.1.8 Persona 用户画像](v2/ixd/ucd_persona.md)
