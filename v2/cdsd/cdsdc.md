@@ -11,9 +11,9 @@
 * 5.1.1 Overall Design 总体设计
 * 5.1.2 Stage One 第一阶段
 * 5.1.3 Stage Two 第二阶段
-* 5.1.4 Stage two-output 第二阶段产出
+* 5.1.4 Stage Two-Output 第二阶段产出
 * 5.1.5 Stage Three 第三阶段
-* 5.1.6 Stage three-output 第三阶段产出
+* 5.1.6 Stage Three-Output 第三阶段产出
 * 5.1.7 Exhibition 展览
 
 
