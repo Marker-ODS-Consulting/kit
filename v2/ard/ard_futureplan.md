@@ -3,14 +3,14 @@
 
 ###概念
 
-经典的 Double diamond有四个阶段， Discover， Define， Develop， Deliver。其实还有第五个阶段，我们称之为“Evolve”。我们的 Future plan其实就属于第五阶段。
+经典的 Double Diamond 有四个阶段， Discover， Define， Develop， Deliver。其实还有第五个阶段，我们称之为“Evolve”。我们的 Future Plan 其实就属于第五阶段。
 
 
 ###作品集应用
 
 ![ Future Plan 未来计划](http://kitpic.makebi.net/2021/ard_15.jpg)
 
-未来计划= Planning the next step 。我们在作品集中做项目的时候会有时间节点，但是为了让招生官看到我们对于整个项目是有进一步深度思考，我们会在整个项目产出之后加入未来计划部分，表明项目之后发展的可行性。
+未来计划= Planning The Next Step 。我们在作品集中做项目的时候会有时间节点，但是为了让招生官看到我们对于整个项目是有进一步深度思考，我们会在整个项目产出之后加入未来计划部分，表明项目之后发展的可行性。
 
 以下是有关 Future Plan 在作品集中的其他应用举例：
 ![ Future Plan 未来计划](http://kitpic.makebi.net/2021/ard_16.jpg)
