@@ -11,7 +11,7 @@ Arduino 是一个低门槛，快速实现，测试我们想法的一种简单技
 
 * 2.2.1 Persona 用户画像   
 * 2.2.2 Case Study 案例分析
-* 2.2.3 Storyboard 故事版
+* 2.2.3 Storyboard 故事板
 * 2.2.4 Idea Development 方案发散
 * 2.2.5 Technical Test 技术测试
 * 2.2.6 Prototype 1.0 & Test 第一代模型&测试
