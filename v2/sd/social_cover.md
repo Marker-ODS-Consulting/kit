@@ -1,5 +1,5 @@
 
-##4.2 社会创新类服务设计项目排版版面
+##4.2 社会创新类服务设计
 
 ###概念
 
@@ -14,8 +14,8 @@
 * 4.2.5 Blue Ocean Stategy 蓝海战略
 * 4.2.6 Value Proposition & Problem Statement 问题阐述与价值主张
 * 4.2.7 Hardware 硬件产出
-* 4.2.8 Info Architecture & Lo-fi 信息架构与低保真
-* 4.2.9 Hifi 高保真
+* 4.2.8 Info Architecture & Lo-Fi 信息架构与低保真
+* 4.2.9 Hi-Fi 高保真
 * 4.2.10 Blueprint 服务蓝图
 * 4.2.11 Touchpoint Map 触点图
 
