@@ -1,6 +1,6 @@
 ## 6.5 图表样式 ##
 
-Infographic,也就是我们常说的图表。从英文拼写我们便可以看出其含义就是将信息图形化。在作品集中，什么情况下会使用这些图表呢？一般是在你有大量有关数字信息和统计时，我们会将你所收集到的这些数据进行视觉化，这样干涩的数据就变成了生动的图形，这样既方便读者阅读并获取信息，同时也会使你的版面更加美观精致。
+Infographic,也就是我们常说的信息可视化。从英文拼写我们便可以看出其含义就是将信息图形化。在作品集中，什么情况下会使用这些可视化后的图表呢？一般是在你有大量有关数字信息和统计时，我们会将你所收集到的这些数据进行视觉化，这样干涩的数据就变成了生动的图形，既方便读者阅读并获取信息，同时也会使你的版面更加美观精致。
 
 #### 如何即快速又美观的画出我们常用的可视化图表呢？
 
@@ -15,11 +15,7 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 
 ####**饼图**
 基本样式使用ChartwellPies制作。
-<<<<<<< Updated upstream
-![Infographic 饼图](http://kitpic.makebi.net/2021/lk_15.jpg)
-=======
 ![Infographic 图表 信息可视化 饼图](http://kitpic.makebi.net/2021/lk_15.jpg)
->>>>>>> Stashed changes
 
 #####**折线图**
 基本样式使用ChartwellLines制作
@@ -27,11 +23,7 @@ Infographic,也就是我们常说的图表。从英文拼写我们便可以看�
 
 #####**柱状图**
 基本样式使用BarsVertical制作
-<<<<<<< Updated upstream
-![Infographic BarsVertical ](http://kitpic.makebi.net/2021/lk_17.jpg)
-=======
 ![Infographic 图表 信息可视化 柱状图](http://kitpic.makebi.net/2021/lk_17.jpg)
->>>>>>> Stashed changes
 
 #####**横向柱状图**
 基本样式使用ChartwellBars制作
