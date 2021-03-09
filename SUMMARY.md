@@ -99,6 +99,6 @@
     * [6.8 Chapter Opener 项目章节页](v2/lk/lk_Chapteropener.md)
     * [6.9 Cover 封面样式](v2/lk/lk_Cover.md)
     * [6.10 Contents 目录样式](v2/lk/lk_Contents.md)
-    * [6.11 CV个人简历](v2/lk/lk_CV.md)
+    * [6.11 CV 个人简历](v2/lk/lk_CV.md)
 * [附录·大北窑作品集工具套装发布页](v2/publish.md)
 * [Change Log](changelog.md)
