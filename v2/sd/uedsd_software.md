@@ -8,7 +8,7 @@
 
 ![用户体验的五个层次](http://kitpic.makebi.net/id/ued/5ofue.png)
 
-Information Architecture 信息架构是在偏重于有界面的交互设计中，利用脑图的形式表达的软件设计的框架结构。即用户体验设计五个层次中的结构层(Structure)，用于确定各种特性和功能最适合的组合方式； 而 Low-Fidelity Prototype 低保真原型在这个层次中是框架层(Skeleton)，利用纸面或者快速原型工具对按钮、表格、图片和文本区域的位置进行绘制。Low-Fidelity Prototype 常被大家称作线框图，在作品集中常被写作Lo-Fi.
+Information Architecture 信息架构是在偏重于有界面的交互设计中，利用脑图的形式表达的软件设计的框架结构。即用户体验设计五个层次中的结构层(Structure)，用于确定各种特性和功能最适合的组合方式； 而 Low-Fidelity Prototype 低保真原型在这个层次中是框架层(Skeleton)，利用纸面或者快速原型工具对按钮、表格、图片和文本区域的位置进行绘制。Low-Fidelity Prototype 常被大家称作线框图，在作品集中常被写作 Lo-Fi 这一缩写。
 
 ###作品集应用
 
