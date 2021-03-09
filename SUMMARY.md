@@ -93,7 +93,7 @@
     * [6.2 Margin 页边距](v2/lk/lk_Margin.md)
     * [6.3 Font 字体字号](v2/lk/lk_Typo.md)
     * [6.4 Paragraph 段落格式](v2/lk/lk_Para.md)
-    * [6.5 Inforgraphic 信息可视化](v2/lk/lk_Info.md)
+    * [6.5 Infographic 信息可视化](v2/lk/lk_Info.md)
     * [6.6 Color Scheme 配色方案](v2/lk/lk_Color.md)
     * [6.7 Header and Footer 页眉页脚](v2/lk/lk_Pageheader.md)
     * [6.8 Chapter Opener 项目章节页](v2/lk/lk_Chapteropener.md)

@@ -6,6 +6,9 @@
 
 
 ![color 配色](http://kitpic.makebi.net/2021/lk_22.jpg)
+我个人经常使用Adobe Color CC这个网站去找配色方案，个人觉得是一个非常好用的配色网站，你可以在网站上找到非常多的配色方案。另外，你还可以把配色文件下载下来放在Ai中，每次都可以方便调用。
+
+网址：color.adobe.com
 
 常用版面主题色 I
 ![color 配色](http://kitpic.makebi.net/2021/lk_23.jpg)
