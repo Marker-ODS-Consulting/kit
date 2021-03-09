@@ -10,7 +10,7 @@ Game Design 交互游戏体验以数字游戏的交互体验为主，更侧重�
 
 
 #####Thing
-* 2.3.3 Character & Element design 角色设计
+* 2.3.3 Character & Element Design 角色设计
 * 2.3.4 Background Concept Design 游戏场景设计
 * 2.3.5 Game UI 游戏界面
 
