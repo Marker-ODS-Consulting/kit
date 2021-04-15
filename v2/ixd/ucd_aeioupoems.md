@@ -25,7 +25,7 @@ POEMS框架包括：
 
 ![aeiou poems](http://kitpic.makebi.net/2021/ixd_11.jpg)
 
-上图为 AEIOU 和 POEMS 展开说的形式，其中 E-环境，适合用图片来展示；O-物品，适合用图片或图标的形式展示；A、I和U 用文字描述即可。
+上图为 AEIOU 和 POEMS 展开的形式，其中 E-环境，适合用图片来展示；O-物品，适合用图片或图标的形式展示；A、I和U 用文字描述即可。
 以下是有关 AEIOU 和 POEMS 在交互设计作品集中的其它举例：
 ![aeiou poems](http://kitpic.makebi.net/2021/ixd_12.jpg)
 

@@ -7,7 +7,7 @@ Concept Generation 这个步骤一般遵循 CT+CT 的设计逻辑，即 Classifi
 ###作品集应用
 ![工业设计概念生成过程](http://kitpic.makebi.net/2021/id_13.jpg)
 
-图中可以看到，左边的部分内容主要描述在概念生成之前，用于概念生成的拆分到各个需求点的可能性（即 Classification Tree 的思路），而在这一页我们并没有展现出 Combination Table 的表格，而是通过手绘以及手绘与可能性的关系引导线来表达可能性是如何表达的。相比于直接贴上 Combination Table，这样的表达在不失去作品逻辑呈现的基础上，增加了版面可读性。
+图中可以看到，左边的部分内容主要描述在概念生成之前，用于概念生成的拆分到各个需求点的可能性（即 Classification Tree 的思路），而在这一页我们并没有展现出 Combination Table 的表格，而是通过手绘来表现方案可能性的排列组合结果。相比于直接贴上 Combination Table，这样的表达在不失去作品逻辑呈现的基础上，增加了版面可读性。
 
 同样，类似概念生成的版面还有如下例子：
 

@@ -11,7 +11,7 @@ Service Blueprint Map 的模式基本是固定的，所以它的版式也比较�
 要注意这一页两个要点同等重要，一个是前台所着力表现的用户体验，另一个是后台所着力表现的支持关系。蓝图的要点表达的是这两者的对应，这也是蓝图作为用户体验类服务设计核心产出的原因。
 
 ###拓展
-希望深入了解 Service Blueprint Map 及其背后的服务设计思维，可以深入阅读[服务设计与创新实践](https://book.douban.com/subject/26464952/)。
+希望深入了解 Service Blueprint Map 及其背后的服务设计思维，可以深入阅读[《服务设计与创新实践》](https://book.douban.com/subject/26464952/)这本书。
 
 ---
 本内容:    
